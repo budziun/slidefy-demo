@@ -1,0 +1,12 @@
+{
+  "name": "slidefy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tinder-style swipe interface to curate Spotify playlists with 30s audio previews.",
+  "scripts": {
+    "start": "npm start --prefix client",
+    "build": "npm run build --prefix client",
+    "test": "npm test --prefix client"
+  }
+}
+

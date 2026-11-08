@@ -1,0 +1,3763 @@
+[
+  {
+    "id": "itunes-priority-1-6812310454",
+    "name": "NIENAWIDZĘ WARSZAWY",
+    "uri": "spotify:track:mock-priority-1-6812310454",
+    "duration_ms": 186000,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/2a/e9/e12ae9ad-c204-75a5-8564-94d92991298f/mzaf_15793704469308351073.plus.aac.p.m4a",
+    "external_urls": {
+      "spotify": "https://music.apple.com/pl/album/nienawidz%C4%99-warszawy/6812310434?i=6812310454&uo=4",
+      "apple": "https://music.apple.com/pl/album/nienawidz%C4%99-warszawy/6812310434?i=6812310454&uo=4"
+    },
+    "album": {
+      "id": "album-priority-6812310434",
+      "name": "RIOTT",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/5e/2b/255e2b9d-755d-a156-a112-15c571d5001f/26UM1IM18671.rgb.jpg/600x600bb.jpg",
+          "height": 600,
+          "width": 600
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/5e/2b/255e2b9d-755d-a156-a112-15c571d5001f/26UM1IM18671.rgb.jpg/300x300bb.jpg",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/5e/2b/255e2b9d-755d-a156-a112-15c571d5001f/26UM1IM18671.rgb.jpg/64x64bb.jpg",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "release_date": "2026-09-17"
+    },
+    "artists": [
+      {
+        "id": "art-priority-0-otsochodzi",
+        "name": "Otsochodzi"
+      },
+      {
+        "id": "art-priority-1-lohleq",
+        "name": "lohleq"
+      }
+    ]
+  },
+  {
+    "id": "itunes-priority-2-1694831455",
+    "name": "Dorex",
+    "uri": "spotify:track:mock-priority-2-1694831455",
+    "duration_ms": 222400,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/6b/c1/5a6bc1df-ed4b-5d08-8051-30e96be175ea/mzaf_12648500360022713464.plus.aac.p.m4a",
+    "external_urls": {
+      "spotify": "https://music.apple.com/pl/album/dorex/1694830549?i=1694831455&uo=4",
+      "apple": "https://music.apple.com/pl/album/dorex/1694830549?i=1694831455&uo=4"
+    },
+    "album": {
+      "id": "album-priority-1694830549",
+      "name": "Cock.0z Mixtape",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/3f/48/653f48d2-67c5-fd59-b94a-c28254480dcb/cover.jpg/600x600bb.jpg",
+          "height": 600,
+          "width": 600
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/3f/48/653f48d2-67c5-fd59-b94a-c28254480dcb/cover.jpg/300x300bb.jpg",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/3f/48/653f48d2-67c5-fd59-b94a-c28254480dcb/cover.jpg/64x64bb.jpg",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "release_date": "2021-07-13"
+    },
+    "artists": [
+      {
+        "id": "art-priority-0-kazbaagane",
+        "name": "Kaz Bałagane"
+      }
+    ]
+  },
+  {
+    "id": "itunes-priority-3-1845825807",
+    "name": "Na śmierć i życie",
+    "uri": "spotify:track:mock-priority-3-1845825807",
+    "duration_ms": 144707,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/c0/f6/d9c0f65d-2eee-16b6-63f2-128746ee5964/mzaf_7368921659654727927.plus.aac.p.m4a",
+    "external_urls": {
+      "spotify": "https://music.apple.com/pl/album/na-%C5%9Bmier%C4%87-i-%C5%BCycie/1845825120?i=1845825807&uo=4",
+      "apple": "https://music.apple.com/pl/album/na-%C5%9Bmier%C4%87-i-%C5%BCycie/1845825120?i=1845825807&uo=4"
+    },
+    "album": {
+      "id": "album-priority-1845825120",
+      "name": "EX UMBRA AD LIBERTATEM",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/56/c2/7856c2ca-8864-a3e2-5447-f3f457ce0a0c/25UM1IM62359.rgb.jpg/600x600bb.jpg",
+          "height": 600,
+          "width": 600
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/56/c2/7856c2ca-8864-a3e2-5447-f3f457ce0a0c/25UM1IM62359.rgb.jpg/300x300bb.jpg",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/56/c2/7856c2ca-8864-a3e2-5447-f3f457ce0a0c/25UM1IM62359.rgb.jpg/64x64bb.jpg",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "release_date": "2025-10-23"
+    },
+    "artists": [
+      {
+        "id": "art-priority-0-pro8l3m",
+        "name": "PRO8L3M"
+      }
+    ]
+  },
+  {
+    "id": "itunes-priority-4-6788733727",
+    "name": "NIC NIE MIJA",
+    "uri": "spotify:track:mock-priority-4-6788733727",
+    "duration_ms": 220000,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/51/8b/60518b39-3325-d307-7237-8b8439160f69/mzaf_3405070461950692516.plus.aac.p.m4a",
+    "external_urls": {
+      "spotify": "https://music.apple.com/pl/album/nic-nie-mija/6788733723?i=6788733727&uo=4",
+      "apple": "https://music.apple.com/pl/album/nic-nie-mija/6788733723?i=6788733727&uo=4"
+    },
+    "album": {
+      "id": "album-priority-6788733723",
+      "name": "NIC NIE MIJA / za tten rap - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/cf/ae/d5cfaeee-d5a8-8d66-3d8f-af2bb7799cce/26UMGIM91136.rgb.jpg/600x600bb.jpg",
+          "height": 600,
+          "width": 600
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/cf/ae/d5cfaeee-d5a8-8d66-3d8f-af2bb7799cce/26UMGIM91136.rgb.jpg/300x300bb.jpg",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/cf/ae/d5cfaeee-d5a8-8d66-3d8f-af2bb7799cce/26UMGIM91136.rgb.jpg/64x64bb.jpg",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "release_date": "2026-07-12"
+    },
+    "artists": [
+      {
+        "id": "art-priority-0-otsochodzi",
+        "name": "Otsochodzi"
+      },
+      {
+        "id": "art-priority-1-lohleq",
+        "name": "lohleq"
+      }
+    ]
+  },
+  {
+    "id": "itunes-priority-5-1770331276",
+    "name": "Turkus",
+    "uri": "spotify:track:mock-priority-5-1770331276",
+    "duration_ms": 210655,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/7f/22/a47f223e-1506-d12b-28cc-be97aad3821b/mzaf_3261756318886004901.plus.aac.p.m4a",
+    "external_urls": {
+      "spotify": "https://music.apple.com/pl/album/turkus/1770331253?i=1770331276&uo=4",
+      "apple": "https://music.apple.com/pl/album/turkus/1770331253?i=1770331276&uo=4"
+    },
+    "album": {
+      "id": "album-priority-1770331253",
+      "name": "A nie mówiłem?",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/a9/a1/04a9a178-3a5a-63f9-e1c5-4f03640b433c/5902659804488.jpg/600x600bb.jpg",
+          "height": 600,
+          "width": 600
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/a9/a1/04a9a178-3a5a-63f9-e1c5-4f03640b433c/5902659804488.jpg/300x300bb.jpg",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/a9/a1/04a9a178-3a5a-63f9-e1c5-4f03640b433c/5902659804488.jpg/64x64bb.jpg",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "release_date": "2024-10-04"
+    },
+    "artists": [
+      {
+        "id": "art-priority-0-kazbaagane",
+        "name": "Kaz Bałagane"
+      }
+    ]
+  },
+  {
+    "id": "itunes-priority-6-1693789318",
+    "name": "Chaczapuri",
+    "uri": "spotify:track:mock-priority-6-1693789318",
+    "duration_ms": 155671,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/a4/8e/f5a48e64-a484-c43b-76bb-6284c1d9a72c/mzaf_3303371646973897101.plus.aac.p.m4a",
+    "external_urls": {
+      "spotify": "https://music.apple.com/pl/album/chaczapuri/1693788337?i=1693789318&uo=4",
+      "apple": "https://music.apple.com/pl/album/chaczapuri/1693788337?i=1693789318&uo=4"
+    },
+    "album": {
+      "id": "album-priority-1693788337",
+      "name": "Radio Gruz",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/73/8c/1d738c6c-ed41-af77-0ac4-6e453b5f1f0d/cover.jpg/600x600bb.jpg",
+          "height": 600,
+          "width": 600
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/73/8c/1d738c6c-ed41-af77-0ac4-6e453b5f1f0d/cover.jpg/300x300bb.jpg",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/73/8c/1d738c6c-ed41-af77-0ac4-6e453b5f1f0d/cover.jpg/64x64bb.jpg",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "release_date": "2016-02-02"
+    },
+    "artists": [
+      {
+        "id": "art-priority-0-kazbaagane",
+        "name": "Kaz Bałagane"
+      }
+    ]
+  },
+  {
+    "id": "itunes-priority-7-1639151392",
+    "name": "Tarcho Terror",
+    "uri": "spotify:track:mock-priority-7-1639151392",
+    "duration_ms": 87887,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/76/94/347694b7-c72e-be33-0499-7468616fbeeb/mzaf_13033315472702055327.plus.aac.p.m4a",
+    "external_urls": {
+      "spotify": "https://music.apple.com/pl/album/tarcho-terror/1639151295?i=1639151392&uo=4",
+      "apple": "https://music.apple.com/pl/album/tarcho-terror/1639151295?i=1639151392&uo=4"
+    },
+    "album": {
+      "id": "album-priority-1639151295",
+      "name": "Tarcho Terror",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8c/49/2e/8c492ed2-1848-29a1-42cc-9ce6ff5cbd82/22UMGIM82911.rgb.jpg/600x600bb.jpg",
+          "height": 600,
+          "width": 600
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8c/49/2e/8c492ed2-1848-29a1-42cc-9ce6ff5cbd82/22UMGIM82911.rgb.jpg/300x300bb.jpg",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8c/49/2e/8c492ed2-1848-29a1-42cc-9ce6ff5cbd82/22UMGIM82911.rgb.jpg/64x64bb.jpg",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "release_date": "2022-08-04"
+    },
+    "artists": [
+      {
+        "id": "art-priority-0-otsochodzi",
+        "name": "Otsochodzi"
+      }
+    ]
+  },
+  {
+    "id": "itunes-1693580580",
+    "name": "fortaleza",
+    "uri": "spotify:track:1693580580",
+    "duration_ms": 169130,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d3/5f/5e/d35f5e02-0d88-e5c9-ff40-f2593982bc5a/mzaf_15377868614661316248.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-935667421",
+        "name": "Kaz Bałagane & Fryta Beatz"
+      }
+    ],
+    "album": {
+      "name": "fortaleza - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/7e/17/a47e1716-103a-a234-54ed-2a0ff24ac9d1/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/fortaleza%20Kaz%20Ba%C5%82agane%20%26%20Fryta%20Beatz"
+    }
+  },
+  {
+    "id": "itunes-1678487340",
+    "name": "Pirelli",
+    "uri": "spotify:track:1678487340",
+    "duration_ms": 197760,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/ef/b6/b1efb6a0-05f3-f65f-ffb0-22052e3c759c/mzaf_5598441930612725238.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1096464261",
+        "name": "PRO8L3M"
+      }
+    ],
+    "album": {
+      "name": "WIDMO",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/ad/1a/83ad1a5c-cded-0bc7-195e-794c8a9bc28e/23UMGIM28359.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Pirelli%20PRO8L3M"
+    }
+  },
+  {
+    "id": "itunes-1502303961",
+    "name": "Wszystko co mam (feat. Oki)",
+    "uri": "spotify:track:1502303961",
+    "duration_ms": 191040,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/d6/c8/34d6c8d3-ea94-a81f-a168-77682dbd6fee/mzaf_6445491433603512598.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-983901438",
+        "name": "Otsochodzi & Rosalie"
+      }
+    ],
+    "album": {
+      "name": "2011",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/e1/ab/7fe1ab48-faa9-f1d7-9ef2-ab30ac733892/886448339953.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Wszystko%20co%20mam%20(feat.%20Oki)%20Otsochodzi%20%26%20Rosalie"
+    }
+  },
+  {
+    "id": "itunes-6812399258",
+    "name": "Easy",
+    "uri": "spotify:track:6812399258",
+    "duration_ms": 173913,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/f9/16/b5f91685-b740-ef82-6f2e-9080110cf954/mzaf_6128389258586086313.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-935667421",
+        "name": "Kaz Bałagane, OKI, Zacheyak & Newlight$"
+      }
+    ],
+    "album": {
+      "name": "Fish & Tits",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/4f/66/e44f6650-4e7b-b6b6-a5dd-6939187775e3/5902659805942.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Easy%20Kaz%20Ba%C5%82agane%2C%20OKI%2C%20Zacheyak%20%26%20Newlight%24"
+    }
+  },
+  {
+    "id": "itunes-1861792903",
+    "name": "ZAKOCHAŁEM SIĘ POD APTEKĄ (feat. Livka)",
+    "uri": "spotify:track:1861792903",
+    "duration_ms": 266840,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b2/cc/c9/b2ccc9ce-00a5-aece-fd44-ee64130d7c17/mzaf_7403421417576541630.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-994820851",
+        "name": "Taco Hemingway & Rumak"
+      }
+    ],
+    "album": {
+      "name": "LATARNIE WSZĘDZIE DAWNO ZGASŁY",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/fe/b8/55feb8d8-29bf-6e1d-bb50-ab6c55ad9757/25UM2IM05977.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/ZAKOCHA%C5%81EM%20SI%C4%98%20POD%20APTEK%C4%84%20(feat.%20Livka)%20Taco%20Hemingway%20%26%20Rumak"
+    }
+  },
+  {
+    "id": "itunes-1765755820",
+    "name": "Kiss cam (podryw roku)",
+    "uri": "spotify:track:1765755820",
+    "duration_ms": 170508,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/75/bd/2a75bd56-ea86-78f0-7635-3a0d49dfeecd/mzaf_2411103464049827193.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1464170338",
+        "name": "Mata, Pedro & Francis"
+      }
+    ],
+    "album": {
+      "name": "Kiss cam (podryw roku) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/f0/45/53f04521-2404-a772-ecca-382b5cb861c5/0000743417790.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Kiss%20cam%20(podryw%20roku)%20Mata%2C%20Pedro%20%26%20Francis"
+    }
+  },
+  {
+    "id": "itunes-1693708981",
+    "name": "Kulig (feat. DMN)",
+    "uri": "spotify:track:1693708981",
+    "duration_ms": 165483,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e0/3b/7d/e03b7df2-2a04-67a5-ad69-f1f2b07f29e7/mzaf_1158462444797194806.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-935667421",
+        "name": "Kaz Bałagane"
+      }
+    ],
+    "album": {
+      "name": "Hugo Bucc 2 - EP",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/53/96ef53f9-ebcc-c66f-4b1d-6054c1cccd3b/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Kulig%20(feat.%20DMN)%20Kaz%20Ba%C5%82agane"
+    }
+  },
+  {
+    "id": "itunes-1678482815",
+    "name": "Ground Zero",
+    "uri": "spotify:track:1678482815",
+    "duration_ms": 181600,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/7f/7e/137f7edc-7156-369a-7fed-5a263db6a155/mzaf_5508170216100866466.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1096464261",
+        "name": "PRO8L3M"
+      }
+    ],
+    "album": {
+      "name": "Ground Zero - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/49/2f/46492fdf-0fe1-2c0c-718f-8d4f48c84a4f/23UMGIM28343.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Ground%20Zero%20PRO8L3M"
+    }
+  },
+  {
+    "id": "itunes-1770987035",
+    "name": "Mów",
+    "uri": "spotify:track:1770987035",
+    "duration_ms": 220000,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/b7/63/87b763bf-06a2-6eb1-9594-f06d01cdd125/mzaf_6912986121503926376.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-983901438",
+        "name": "Otsochodzi"
+      }
+    ],
+    "album": {
+      "name": "Mów - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/09/15/0c09153f-f88b-6029-9723-ab7a76c96883/5902898465143.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/M%C3%B3w%20Otsochodzi"
+    }
+  },
+  {
+    "id": "itunes-1668844863",
+    "name": "Voodoo",
+    "uri": "spotify:track:1668844863",
+    "duration_ms": 195827,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f1/56/eb/f156ebe9-555b-bb76-00ba-c3ac3ed385fd/mzaf_9801640328280062636.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-76031115",
+        "name": "OKI & Paluch"
+      }
+    ],
+    "album": {
+      "name": "47playground",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b4/27/e9/b427e924-5098-40fe-b4fd-36806b92c9ca/23UMGIM04384.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Voodoo%20OKI%20%26%20Paluch"
+    }
+  },
+  {
+    "id": "itunes-1700280700",
+    "name": "W PIĄTKI LEŻĘ W WANNIE (feat. Dawid Podsiadło)",
+    "uri": "spotify:track:1700280700",
+    "duration_ms": 220080,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/71/32/3e713267-69c3-d5f0-d4eb-347463c5ac03/mzaf_2593639657389542694.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-994820851",
+        "name": "Taco Hemingway"
+      }
+    ],
+    "album": {
+      "name": "POCZTÓWKA Z WWA, LATO '19",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/db/52/b8db52eb-44b3-c3b2-948b-aa8f923f8aae/23UMGIM88346.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/W%20PI%C4%84TKI%20LE%C5%BB%C4%98%20W%20WANNIE%20(feat.%20Dawid%20Podsiad%C5%82o)%20Taco%20Hemingway"
+    }
+  },
+  {
+    "id": "itunes-1765984145",
+    "name": "Schodki",
+    "uri": "spotify:track:1765984145",
+    "duration_ms": 235773,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/6e/37/db6e37d2-eb32-d58d-3d00-df3a7cad04cd/mzaf_17521722443001666353.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1464170338",
+        "name": "Mata"
+      }
+    ],
+    "album": {
+      "name": "100 dni do matury",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/12/b5/f812b5de-151c-ebdf-5196-ac315d6fdef8/0000536536271.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Schodki%20Mata"
+    }
+  },
+  {
+    "id": "itunes-1693700176",
+    "name": "Sos, Ciuchy I Borciuchy (feat. Bel Mondo)",
+    "uri": "spotify:track:1693700176",
+    "duration_ms": 140260,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e6/16/22/e6162240-1f5e-0da9-3928-0a30e3e90f96/mzaf_1739010800383368101.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-935667421",
+        "name": "Kaz Bałagane"
+      }
+    ],
+    "album": {
+      "name": "Sos, Ciuchy I Borciuchy (feat. Bel Mondo) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/bd/b0/18bdb00d-9c69-7f99-04dd-44ea265ebb6c/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Sos%2C%20Ciuchy%20I%20Borciuchy%20(feat.%20Bel%20Mondo)%20Kaz%20Ba%C5%82agane"
+    }
+  },
+  {
+    "id": "itunes-1678486911",
+    "name": "Molly",
+    "uri": "spotify:track:1678486911",
+    "duration_ms": 251400,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/68/d2/b068d24b-f25b-2079-d53f-ef3f51feba17/mzaf_15780230571560288721.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1096464261",
+        "name": "PRO8L3M"
+      }
+    ],
+    "album": {
+      "name": "PRO8L3M",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/38/98/49389853-80a4-a8f4-ba0f-240d25fa8b77/23UMGIM28444.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Molly%20PRO8L3M"
+    }
+  },
+  {
+    "id": "itunes-1738069580",
+    "name": "Piegi",
+    "uri": "spotify:track:1738069580",
+    "duration_ms": 157895,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/22/c9/6222c9cb-3528-e957-0f34-3a5fdcf7c844/mzaf_2449720633702164902.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-983901438",
+        "name": "Otsochodzi, lohleq & @atutowy"
+      }
+    ],
+    "album": {
+      "name": "TTHE GRIND",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/6a/19/8c6a19e2-fd68-7066-3f08-9a436700462a/24UMGIM34561.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Piegi%20Otsochodzi%2C%20lohleq%20%26%20%40atutowy"
+    }
+  },
+  {
+    "id": "itunes-1668844865",
+    "name": "Justin Bieber",
+    "uri": "spotify:track:1668844865",
+    "duration_ms": 200413,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ee/72/b1/ee72b145-27d8-5b43-ce60-fce7015d4a2a/mzaf_8003465329669914936.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-76031115",
+        "name": "OKI"
+      }
+    ],
+    "album": {
+      "name": "47playground",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b4/27/e9/b427e924-5098-40fe-b4fd-36806b92c9ca/23UMGIM04384.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Justin%20Bieber%20OKI"
+    }
+  },
+  {
+    "id": "itunes-1861792907",
+    "name": "FRASCATI (feat. Livka)",
+    "uri": "spotify:track:1861792907",
+    "duration_ms": 177653,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/7f/f6/ba7ff6a6-fb8d-e22d-3e80-f96e243c36c2/mzaf_12330957161053184845.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-994820851",
+        "name": "Taco Hemingway & Zeppy Zep"
+      }
+    ],
+    "album": {
+      "name": "LATARNIE WSZĘDZIE DAWNO ZGASŁY",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/fe/b8/55feb8d8-29bf-6e1d-bb50-ab6c55ad9757/25UM2IM05977.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/FRASCATI%20(feat.%20Livka)%20Taco%20Hemingway%20%26%20Zeppy%20Zep"
+    }
+  },
+  {
+    "id": "itunes-1765984143",
+    "name": "GOMBAO 33",
+    "uri": "spotify:track:1765984143",
+    "duration_ms": 340107,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/9c/9d/579c9d60-a093-67a4-0c47-c11aebb163c2/mzaf_2696929713461975246.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1464170338",
+        "name": "Mata, Wyguś, Szczepan & Adam"
+      }
+    ],
+    "album": {
+      "name": "100 dni do matury",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/12/b5/f812b5de-151c-ebdf-5196-ac315d6fdef8/0000536536271.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/GOMBAO%2033%20Mata%2C%20Wygu%C5%9B%2C%20Szczepan%20%26%20Adam"
+    }
+  },
+  {
+    "id": "itunes-6812399258-alt",
+    "name": "Easy",
+    "uri": "spotify:track:6812399258-alt",
+    "duration_ms": 173913,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/f9/16/b5f91685-b740-ef82-6f2e-9080110cf954/mzaf_6128389258586086313.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-935667421",
+        "name": "Kaz Bałagane, OKI, Zacheyak & Newlight$"
+      }
+    ],
+    "album": {
+      "name": "Fish & Tits",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/4f/66/e44f6650-4e7b-b6b6-a5dd-6939187775e3/5902659805942.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Easy%20Kaz%20Ba%C5%82agane%2C%20OKI%2C%20Zacheyak%20%26%20Newlight%24"
+    }
+  },
+  {
+    "id": "itunes-1678486530",
+    "name": "VHS",
+    "uri": "spotify:track:1678486530",
+    "duration_ms": 202507,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/d9/91/b9d99167-ac91-e7f5-0027-f90c40869bee/mzaf_11910748784323864744.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1096464261",
+        "name": "PRO8L3M"
+      }
+    ],
+    "album": {
+      "name": "PRO8L3M",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/38/98/49389853-80a4-a8f4-ba0f-240d25fa8b77/23UMGIM28444.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/VHS%20PRO8L3M"
+    }
+  },
+  {
+    "id": "itunes-1525934817",
+    "name": "Reksiu",
+    "uri": "spotify:track:1525934817",
+    "duration_ms": 161350,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/df/9b/43df9b1d-92a5-bcab-158e-6144a5901b18/mzaf_11826203993057106062.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-2608930",
+        "name": "Margaret & Otsochodzi"
+      }
+    ],
+    "album": {
+      "name": "Reksiu - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/b7/da/b6b7da1e-a8e3-fc80-0748-229b30954fb9/886448666790.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Reksiu%20Margaret%20%26%20Otsochodzi"
+    }
+  },
+  {
+    "id": "itunes-1668847825",
+    "name": "TAK BARDZO (feat. Swizzy & 2latefor)",
+    "uri": "spotify:track:1668847825",
+    "duration_ms": 208000,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c2/22/7f/c2227f56-911c-b830-8e91-62eb0d61c28e/mzaf_8095439697815286056.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-76031115",
+        "name": "OKI, DZIARMA & Gverilla"
+      }
+    ],
+    "album": {
+      "name": "77747mixtape",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/5c/97/a85c975a-9567-ff2e-44c3-65e9268ed345/23UMGIM04385.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/TAK%20BARDZO%20(feat.%20Swizzy%20%26%202latefor)%20OKI%2C%20DZIARMA%20%26%20Gverilla"
+    }
+  },
+  {
+    "id": "itunes-1678114394",
+    "name": "8 kobiet (feat. Bedoes 2115) [Remix]",
+    "uri": "spotify:track:1678114394",
+    "duration_ms": 270813,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/78/42/f978421d-7ec4-f100-1d94-185315376141/mzaf_2870634325760601424.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1360296668",
+        "name": "TACONAFIDE, Quebonafide & Taco Hemingway"
+      }
+    ],
+    "album": {
+      "name": "0,25 mg",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/99/99/2f9999c7-3680-d06a-310a-1e47b1bc71ea/23UMGIM28918.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/8%20kobiet%20(feat.%20Bedoes%202115)%20%5BRemix%5D%20TACONAFIDE%2C%20Quebonafide%20%26%20Taco%20Hemingway"
+    }
+  },
+  {
+    "id": "itunes-1765984134",
+    "name": "Żółte flamastry i grube katechetki",
+    "uri": "spotify:track:1765984134",
+    "duration_ms": 256040,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/79/83/677983d1-d15c-2878-d797-604f8487c916/mzaf_12795928534764820778.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1464170338",
+        "name": "Mata"
+      }
+    ],
+    "album": {
+      "name": "100 dni do matury",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/12/b5/f812b5de-151c-ebdf-5196-ac315d6fdef8/0000536536271.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/%C5%BB%C3%B3%C5%82te%20flamastry%20i%20grube%20katechetki%20Mata"
+    }
+  },
+  {
+    "id": "itunes-1678486775",
+    "name": "Skrable",
+    "uri": "spotify:track:1678486775",
+    "duration_ms": 237981,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/13/36/0f/13360f98-7c21-738a-4fe4-f9818e9ff391/mzaf_17161835432144630821.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1096464261",
+        "name": "PRO8L3M"
+      }
+    ],
+    "album": {
+      "name": "Skrable - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/f3/37/0df33720-b694-3a4b-671a-279b392a397d/23UMGIM28379.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Skrable%20PRO8L3M"
+    }
+  },
+  {
+    "id": "itunes-1765564369",
+    "name": "Co tam",
+    "uri": "spotify:track:1765564369",
+    "duration_ms": 206971,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/87/87/d3878743-c5bf-f040-8571-2a0ea132a0fe/mzaf_9487344286113461126.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1201214084",
+        "name": "Jan-Rapowanie, Nocny & Otsochodzi"
+      }
+    ],
+    "album": {
+      "name": "Plansze",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a1/27/7fa127c2-3ba5-3d26-ae98-5f65b8c04ae5/0000465771705.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Co%20tam%20Jan-Rapowanie%2C%20Nocny%20%26%20Otsochodzi"
+    }
+  },
+  {
+    "id": "itunes-1700711292",
+    "name": "Pieniądz i Terror (feat. @atutowy)",
+    "uri": "spotify:track:1700711292",
+    "duration_ms": 213107,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/0b/cb/ac0bcb8e-3222-1a06-e10a-ad2a37a04c1c/mzaf_3840615781922086195.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-994820851",
+        "name": "Taco Hemingway, OKI & Deemz"
+      }
+    ],
+    "album": {
+      "name": "Europa",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/80/75/c480753d-bb41-e8a6-c0d9-91c0099c86bb/23UMGIM89381.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Pieni%C4%85dz%20i%20Terror%20(feat.%20%40atutowy)%20Taco%20Hemingway%2C%20OKI%20%26%20Deemz"
+    }
+  },
+  {
+    "id": "itunes-1678110082",
+    "name": "Tamagotchi",
+    "uri": "spotify:track:1678110082",
+    "duration_ms": 199993,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3b/b6/3d/3bb63de5-9b41-f8b4-5f71-1198b592260f/mzaf_3748610075076080926.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1360296668",
+        "name": "TACONAFIDE, Quebonafide & Taco Hemingway"
+      }
+    ],
+    "album": {
+      "name": "Tamagotchi - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/31/bb/1e31bb4d-09bb-33b4-2b44-1c15eec73786/23UMGIM28914.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Tamagotchi%20TACONAFIDE%2C%20Quebonafide%20%26%20Taco%20Hemingway"
+    }
+  },
+  {
+    "id": "itunes-1765984144",
+    "name": "100 dni do matury",
+    "uri": "spotify:track:1765984144",
+    "duration_ms": 301573,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/a0/60/56a06075-14f1-2467-1199-3b51b689d44d/mzaf_8087525579294581241.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1464170338",
+        "name": "Mata, Ezra Williams & Sarcastic Sounds"
+      }
+    ],
+    "album": {
+      "name": "100 dni do matury",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/12/b5/f812b5de-151c-ebdf-5196-ac315d6fdef8/0000536536271.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/100%20dni%20do%20matury%20Mata%2C%20Ezra%20Williams%20%26%20Sarcastic%20Sounds"
+    }
+  },
+  {
+    "id": "itunes-1678487224",
+    "name": "Makijaż",
+    "uri": "spotify:track:1678487224",
+    "duration_ms": 232500,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/d5/4d/8ad54db6-069a-816f-7c98-ca2b7240e865/mzaf_608878857179959052.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1096464261",
+        "name": "PRO8L3M"
+      }
+    ],
+    "album": {
+      "name": "Hack3d By GH05T 2.0 EP",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/cf/5c/f0cf5c5b-2dac-0e81-9ce5-0c834b5ae38e/23UMGIM28402.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Makija%C5%BC%20PRO8L3M"
+    }
+  },
+  {
+    "id": "itunes-1700280698",
+    "name": "LECI NOWY FUTURE",
+    "uri": "spotify:track:1700280698",
+    "duration_ms": 219293,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/fc/d1/3bfcd1af-fbcf-5845-8ad1-a65ba8a3b381/mzaf_10948348947255128590.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-994820851",
+        "name": "Taco Hemingway"
+      }
+    ],
+    "album": {
+      "name": "POCZTÓWKA Z WWA, LATO '19",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/db/52/b8db52eb-44b3-c3b2-948b-aa8f923f8aae/23UMGIM88346.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/LECI%20NOWY%20FUTURE%20Taco%20Hemingway"
+    }
+  },
+  {
+    "id": "itunes-1765984146",
+    "name": "Prawy do Lewego",
+    "uri": "spotify:track:1765984146",
+    "duration_ms": 230173,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/55/e4/5a55e46e-7dd6-0f5f-2787-29860c059445/mzaf_8112882922186733687.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1464170338",
+        "name": "Mata"
+      }
+    ],
+    "album": {
+      "name": "100 dni do matury",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/12/b5/f812b5de-151c-ebdf-5196-ac315d6fdef8/0000536536271.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Prawy%20do%20Lewego%20Mata"
+    }
+  },
+  {
+    "id": "itunes-1678487343",
+    "name": "Interpol",
+    "uri": "spotify:track:1678487343",
+    "duration_ms": 197040,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/54/d2/9154d2a0-b98c-178d-fc3e-15f020b59bda/mzaf_831103348194544196.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1096464261",
+        "name": "PRO8L3M"
+      }
+    ],
+    "album": {
+      "name": "WIDMO",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/ad/1a/83ad1a5c-cded-0bc7-195e-794c8a9bc28e/23UMGIM28359.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Interpol%20PRO8L3M"
+    }
+  },
+  {
+    "id": "itunes-1706520082",
+    "name": "Makarena Freestyle",
+    "uri": "spotify:track:1706520082",
+    "duration_ms": 208939,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/7a/48/5f7a48b5-a69b-b96a-8c7c-f4f5e31e3ca3/mzaf_2981099785503275702.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-994820851",
+        "name": "Taco Hemingway"
+      }
+    ],
+    "album": {
+      "name": "1-800-OŚWIECENIE",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/33/76/053376f7-8f6f-5540-80f2-6be9bee5697a/23UM1IM07279.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Makarena%20Freestyle%20Taco%20Hemingway"
+    }
+  },
+  {
+    "id": "itunes-1765983942",
+    "name": "Biblioteka Trap",
+    "uri": "spotify:track:1765983942",
+    "duration_ms": 215680,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/76/a0/7a76a021-e472-8abe-1588-96492e49e568/mzaf_16301619630106955064.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1464170338",
+        "name": "Mata"
+      }
+    ],
+    "album": {
+      "name": "100 dni do matury",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/12/b5/f812b5de-151c-ebdf-5196-ac315d6fdef8/0000536536271.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Biblioteka%20Trap%20Mata"
+    }
+  },
+  {
+    "id": "itunes-1784766383",
+    "name": "Magnolie",
+    "uri": "spotify:track:1784766383",
+    "duration_ms": 185806,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/12/44/a8124441-94d4-8de4-f33b-83fbbe525977/mzaf_11598259177242566694.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1096464261",
+        "name": "PRO8L3M"
+      }
+    ],
+    "album": {
+      "name": "Ground Zero Mixtape",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/cc/e8/7dcce8f2-c54f-b25b-8837-c5bd21256e8d/23UMGIM28341.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Magnolie%20PRO8L3M"
+    }
+  },
+  {
+    "id": "itunes-1633288962",
+    "name": "TOKYO2020",
+    "uri": "spotify:track:1633288962",
+    "duration_ms": 193747,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/0a/c7/fd0ac7e8-cb9b-d378-a501-d6db6ce628ea/mzaf_2474823630463830380.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-685052797",
+        "name": "Quebonafide & Taco Hemingway"
+      }
+    ],
+    "album": {
+      "name": "ROMANTIC PSYCHO",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a8/22/21/a8222198-553e-b187-6bd5-e3e596fe1984/5902898171617.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/TOKYO2020%20Quebonafide%20%26%20Taco%20Hemingway"
+    }
+  },
+  {
+    "id": "itunes-1633288910",
+    "name": "ASPARTAM",
+    "uri": "spotify:track:1633288910",
+    "duration_ms": 204973,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/64/5d/ae645dc9-7e42-cc37-dfc3-9052071a247d/mzaf_6860316107822791741.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-685052797",
+        "name": "Quebonafide & Mata"
+      }
+    ],
+    "album": {
+      "name": "ROMANTIC PSYCHO",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a8/22/21/a8222198-553e-b187-6bd5-e3e596fe1984/5902898171617.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/ASPARTAM%20Quebonafide%20%26%20Mata"
+    }
+  },
+  {
+    "id": "itunes-1678486920",
+    "name": "Toast",
+    "uri": "spotify:track:1678486920",
+    "duration_ms": 194200,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/d6/69/fbd6697a-1f38-b785-fc25-363bf6e9a516/mzaf_8947491471273740940.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1096464261",
+        "name": "PRO8L3M"
+      }
+    ],
+    "album": {
+      "name": "PRO8L3M",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/38/98/49389853-80a4-a8f4-ba0f-240d25fa8b77/23UMGIM28444.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Toast%20PRO8L3M"
+    }
+  },
+  {
+    "id": "itunes-1700711292-alt",
+    "name": "Pieniądz i Terror (feat. @atutowy)",
+    "uri": "spotify:track:1700711292-alt",
+    "duration_ms": 213107,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/0b/cb/ac0bcb8e-3222-1a06-e10a-ad2a37a04c1c/mzaf_3840615781922086195.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-994820851",
+        "name": "Taco Hemingway, OKI & Deemz"
+      }
+    ],
+    "album": {
+      "name": "Europa",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/80/75/c480753d-bb41-e8a6-c0d9-91c0099c86bb/23UMGIM89381.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Pieni%C4%85dz%20i%20Terror%20(feat.%20%40atutowy)%20Taco%20Hemingway%2C%20OKI%20%26%20Deemz"
+    }
+  },
+  {
+    "id": "itunes-1765741150",
+    "name": "3 w nocy w Międzyzdrojach",
+    "uri": "spotify:track:1765741150",
+    "duration_ms": 174316,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/89/15/1489151d-ae88-09f6-6df3-a46383a541e1/mzaf_158659900881318694.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1135104929",
+        "name": "SB Maffija, Mata, White 2115, Wyguś, W.O.La, slowez, Mario, Pedro, wxrrior & SHDØW"
+      }
+    ],
+    "album": {
+      "name": "3 w nocy w Międzyzdrojach - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/8f/d6/9f8fd619-581b-ad1d-5132-1b5d08aea022/0000890725861.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/3%20w%20nocy%20w%20Mi%C4%99dzyzdrojach%20SB%20Maffija%2C%20Mata%2C%20White%202115%2C%20Wygu%C5%9B%2C%20W.O.La%2C%20slowez%2C%20Mario%2C%20Pedro%2C%20wxrrior%20%26%20SHD%C3%98W"
+    }
+  },
+  {
+    "id": "itunes-1700280695",
+    "name": "ANTYSMOGOWA MASKA W MOIM CARRY-ON BAGGAGE (feat. Pezet)",
+    "uri": "spotify:track:1700280695",
+    "duration_ms": 243200,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/db/22/91db227f-22b3-9ce5-12c4-7927fa3a52a5/mzaf_13816719994462548127.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-994820851",
+        "name": "Taco Hemingway"
+      }
+    ],
+    "album": {
+      "name": "POCZTÓWKA Z WWA, LATO '19",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/db/52/b8db52eb-44b3-c3b2-948b-aa8f923f8aae/23UMGIM88346.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/ANTYSMOGOWA%20MASKA%20W%20MOIM%20CARRY-ON%20BAGGAGE%20(feat.%20Pezet)%20Taco%20Hemingway"
+    }
+  },
+  {
+    "id": "itunes-1700711290",
+    "name": "WWA NIE Berlin",
+    "uri": "spotify:track:1700711290",
+    "duration_ms": 220987,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/67/9f/59679fbc-3243-6696-cffc-4b74955bfabb/mzaf_6967544138304852250.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-994820851",
+        "name": "Taco Hemingway & Szpaku"
+      }
+    ],
+    "album": {
+      "name": "Europa",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/80/75/c480753d-bb41-e8a6-c0d9-91c0099c86bb/23UMGIM89381.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/WWA%20NIE%20Berlin%20Taco%20Hemingway%20%26%20Szpaku"
+    }
+  },
+  {
+    "id": "itunes-1678114637",
+    "name": "Ekodiesel (feat. Paluch) [Remix]",
+    "uri": "spotify:track:1678114637",
+    "duration_ms": 300280,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/08/e3/0208e392-d2a2-3458-47ff-e2e9272f4548/mzaf_342832821159772263.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1360296668",
+        "name": "TACONAFIDE, Quebonafide & Taco Hemingway"
+      }
+    ],
+    "album": {
+      "name": "0,25 mg",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/99/99/2f9999c7-3680-d06a-310a-1e47b1bc71ea/23UMGIM28918.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Ekodiesel%20(feat.%20Paluch)%20%5BRemix%5D%20TACONAFIDE%2C%20Quebonafide%20%26%20Taco%20Hemingway"
+    }
+  },
+  {
+    "id": "itunes-1462094306",
+    "name": "9 Żyć (feat. Otsochodzi, Schafter & PlanBe)",
+    "uri": "spotify:track:1462094306",
+    "duration_ms": 241787,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/2d/3e/c32d3efa-32bf-4c22-5905-8d16ef93b187/mzaf_8227392391942733387.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1069215127",
+        "name": "Kubi Producent"
+      }
+    ],
+    "album": {
+      "name": "+18",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/18/55/7e/18557e0c-2df9-b20e-f69d-96620f335bda/886447608593.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/9%20%C5%BBy%C4%87%20(feat.%20Otsochodzi%2C%20Schafter%20%26%20PlanBe)%20Kubi%20Producent"
+    }
+  },
+  {
+    "id": "itunes-1633289330",
+    "name": "BUBBLETEA",
+    "uri": "spotify:track:1633289330",
+    "duration_ms": 284000,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/13/66/2713663d-04cb-1080-d8e6-f64078f0eb2e/mzaf_2681581205871546354.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-685052797",
+        "name": "Quebonafide, Duit & Daria Zawiałow"
+      }
+    ],
+    "album": {
+      "name": "ROMANTIC PSYCHO",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a8/22/21/a8222198-553e-b187-6bd5-e3e596fe1984/5902898171617.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/BUBBLETEA%20Quebonafide%2C%20Duit%20%26%20Daria%20Zawia%C5%82ow"
+    }
+  },
+  {
+    "id": "itunes-1633288386",
+    "name": "Bogini",
+    "uri": "spotify:track:1633288386",
+    "duration_ms": 262147,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/fe/c4/7bfec400-4580-8119-adf0-48a8dc8c9561/mzaf_16799390829153454269.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-685052797",
+        "name": "Quebonafide"
+      }
+    ],
+    "album": {
+      "name": "Dla fanek euforii",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5a/2b/cb/5a2bcb62-e952-3662-9404-d54f02fdad5c/0000387528210.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Bogini%20Quebonafide"
+    }
+  },
+  {
+    "id": "itunes-1633287921",
+    "name": "Half Dead",
+    "uri": "spotify:track:1633287921",
+    "duration_ms": 278742,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/92/25/1b9225b4-6c9a-ea12-68d8-1de1121713d7/mzaf_12558676207472676536.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-685052797",
+        "name": "Quebonafide & Reto"
+      }
+    ],
+    "album": {
+      "name": "Dla fanów eklektyki",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/27/b1/f4/27b1f4b9-da37-c104-6cff-b72484251b9b/0000387529255.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Half%20Dead%20Quebonafide%20%26%20Reto"
+    }
+  },
+  {
+    "id": "itunes-1633295859",
+    "name": "C'est la vie",
+    "uri": "spotify:track:1633295859",
+    "duration_ms": 243018,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/c8/c3/3bc8c380-f281-23d3-517a-b0b5732d08c9/mzaf_10010745154731298958.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-685052797",
+        "name": "Quebonafide"
+      }
+    ],
+    "album": {
+      "name": "Egzotyka",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/17/28/6a/17286a51-0cfa-ed33-ea54-80a6fcdc9d14/0000385544021.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/C'est%20la%20vie%20Quebonafide"
+    }
+  },
+  {
+    "id": "itunes-1633288589",
+    "name": "Candy",
+    "uri": "spotify:track:1633288589",
+    "duration_ms": 195882,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/ec/e4/a3ece46a-011f-1937-cdfa-69f6045e36a2/mzaf_11501087027779011241.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-685052797",
+        "name": "Quebonafide, Deemz & Klaudia Szafrańska"
+      }
+    ],
+    "album": {
+      "name": "Dla fanek euforii",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5a/2b/cb/5a2bcb62-e952-3662-9404-d54f02fdad5c/0000387528210.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Candy%20Quebonafide%2C%20Deemz%20%26%20Klaudia%20Szafra%C5%84ska"
+    }
+  },
+  {
+    "id": "itunes-1765982934",
+    "name": "1998 (mam to we krwi)",
+    "uri": "spotify:track:1765982934",
+    "duration_ms": 232133,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/62/0d/21620d5f-858e-6c52-383d-7edc7e768d3e/mzaf_5699170823827024269.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1660063697",
+        "name": "Bedoes 2115 & Lanek"
+      }
+    ],
+    "album": {
+      "name": "Opowieści z Doliny Smoków",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c0/22/f9c02281-aa93-2a7d-f3fd-4a05d7ef0e65/0000521432908.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/1998%20(mam%20to%20we%20krwi)%20Bedoes%202115%20%26%20Lanek"
+    }
+  },
+  {
+    "id": "itunes-1883059814",
+    "name": "fantazje",
+    "uri": "spotify:track:1883059814",
+    "duration_ms": 178144,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/20/1f/a2201fcf-0e5c-3933-b882-4ca4ee2372ee/mzaf_3393829800607294050.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1723297392",
+        "name": "MIÜ, Pezet & Bedoes 2115"
+      }
+    ],
+    "album": {
+      "name": "Ü UP? mixtape",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/83/61/ea8361cf-3a34-f651-8a0d-6cb1597ba492/5907983149182.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/fantazje%20MI%C3%9C%2C%20Pezet%20%26%20Bedoes%202115"
+    }
+  },
+  {
+    "id": "itunes-1765982493",
+    "name": "Chłopaki nie płaczą (feat. Taco Hemingway)",
+    "uri": "spotify:track:1765982493",
+    "duration_ms": 211800,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/67/1e/e1671e07-a2c3-d3b1-8a20-25577d1cea28/mzaf_5454632489540193324.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1660063697",
+        "name": "Bedoes 2115 & Kubi Producent"
+      }
+    ],
+    "album": {
+      "name": "Kwiat polskiej mlodzieży",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/d1/38/97d13896-14a0-b14b-f290-8c2809c2cd0f/5902659800732.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Ch%C5%82opaki%20nie%20p%C5%82acz%C4%85%20(feat.%20Taco%20Hemingway)%20Bedoes%202115%20%26%20Kubi%20Producent"
+    }
+  },
+  {
+    "id": "itunes-1765982494",
+    "name": "05:05",
+    "uri": "spotify:track:1765982494",
+    "duration_ms": 211880,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/f9/d4/baf9d443-68ca-a8d6-77bf-bb02dff9d871/mzaf_18391066648485050371.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1660063697",
+        "name": "Bedoes 2115 & Kubi Producent"
+      }
+    ],
+    "album": {
+      "name": "Kwiat polskiej mlodzieży",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/d1/38/97d13896-14a0-b14b-f290-8c2809c2cd0f/5902659800732.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/05%3A05%20Bedoes%202115%20%26%20Kubi%20Producent"
+    }
+  },
+  {
+    "id": "itunes-1765982504",
+    "name": "Delfin (feat. Koldi, Young Multi & Beteo)",
+    "uri": "spotify:track:1765982504",
+    "duration_ms": 336867,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/e9/66/06e966c8-531b-5b42-ab05-73ce5ff5e271/mzaf_4143043592634945374.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1660063697",
+        "name": "Bedoes 2115 & Kubi Producent"
+      }
+    ],
+    "album": {
+      "name": "Kwiat polskiej mlodzieży",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/d1/38/97d13896-14a0-b14b-f290-8c2809c2cd0f/5902659800732.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Delfin%20(feat.%20Koldi%2C%20Young%20Multi%20%26%20Beteo)%20Bedoes%202115%20%26%20Kubi%20Producent"
+    }
+  },
+  {
+    "id": "itunes-1765982942",
+    "name": "VOGUE",
+    "uri": "spotify:track:1765982942",
+    "duration_ms": 218133,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/7e/1d/df7e1d3e-05ef-de03-b18b-51dd44e7bd31/mzaf_17641043478557093997.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1660063697",
+        "name": "Bedoes 2115 & Lanek"
+      }
+    ],
+    "album": {
+      "name": "Opowieści z Doliny Smoków",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c0/22/f9c02281-aa93-2a7d-f3fd-4a05d7ef0e65/0000521432908.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/VOGUE%20Bedoes%202115%20%26%20Lanek"
+    }
+  },
+  {
+    "id": "itunes-1765982936",
+    "name": "Opowieści z Doliny Smoków",
+    "uri": "spotify:track:1765982936",
+    "duration_ms": 198091,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/ca/45/64ca451a-39a8-c599-81f2-9eac933f32c7/mzaf_13823451508301470233.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1660063697",
+        "name": "Bedoes 2115 & Lanek"
+      }
+    ],
+    "album": {
+      "name": "Opowieści z Doliny Smoków",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c0/22/f9c02281-aa93-2a7d-f3fd-4a05d7ef0e65/0000521432908.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Opowie%C5%9Bci%20z%20Doliny%20Smok%C3%B3w%20Bedoes%202115%20%26%20Lanek"
+    }
+  },
+  {
+    "id": "itunes-1786394147",
+    "name": "KOCHASZ?",
+    "uri": "spotify:track:1786394147",
+    "duration_ms": 152386,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/98/5b/64985b0f-05b7-b65e-b7c4-390a3e7fa17f/mzaf_9592419075867957435.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-882191248",
+        "name": "Sobel, francis & Deemz"
+      }
+    ],
+    "album": {
+      "name": "KOCHASZ? - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/ea/4f/1dea4fed-2b28-1a01-d4f9-32cc7def28b4/24UM1IM41164.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/KOCHASZ%3F%20Sobel%2C%20francis%20%26%20Deemz"
+    }
+  },
+  {
+    "id": "itunes-1808706128",
+    "name": "CAŁE LATO",
+    "uri": "spotify:track:1808706128",
+    "duration_ms": 148188,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/7a/be/a07abe5c-6455-0752-633a-c8e49e47dbad/mzaf_600312392073743858.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-882191248",
+        "name": "Sobel & francis"
+      }
+    ],
+    "album": {
+      "name": "NAPISZ JAK BĘDZIESZ",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/11/0a/50110a40-ad5a-eca1-a1d0-a651e57d1566/25UMGIM57826.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/CA%C5%81E%20LATO%20Sobel%20%26%20francis"
+    }
+  },
+  {
+    "id": "itunes-1562159456",
+    "name": "Fiołkowe Pole",
+    "uri": "spotify:track:1562159456",
+    "duration_ms": 159253,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/8f/52/378f5236-1163-2832-f1c0-d6c49e48280f/mzaf_12954195764084136343.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-882191248",
+        "name": "Sobel & Piotrek Lewandowski"
+      }
+    ],
+    "album": {
+      "name": "Fiołkowe Pole - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/9b/a7/439ba7a6-ccda-7af5-10be-caef007ecb1b/21UMGIM30276.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Fio%C5%82kowe%20Pole%20Sobel%20%26%20Piotrek%20Lewandowski"
+    }
+  },
+  {
+    "id": "itunes-1519030783",
+    "name": "Wygladasz Tak Pięknie",
+    "uri": "spotify:track:1519030783",
+    "duration_ms": 195877,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/75/d2/ae75d292-0ed7-0ab6-2248-6fc282e2e23a/mzaf_18389263442599068012.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-882191248",
+        "name": "Sobel"
+      }
+    ],
+    "album": {
+      "name": "Wygladasz Tak Pięknie - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/64/81/4164811b-7acb-2552-13bb-69845e41abd0/20UMGIM50973.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Wygladasz%20Tak%20Pi%C4%99knie%20Sobel"
+    }
+  },
+  {
+    "id": "itunes-1519396947",
+    "name": "Każdego Dnia",
+    "uri": "spotify:track:1519396947",
+    "duration_ms": 185714,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/08/f9/1508f937-c035-6213-6cf3-fababc207af1/mzaf_7078093823227286879.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-882191248",
+        "name": "Sobel"
+      }
+    ],
+    "album": {
+      "name": "Kontrast",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/37/20/d537203f-6b4b-1a1d-9ab7-9095d4591b75/20UMGIM51882.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Ka%C5%BCdego%20Dnia%20Sobel"
+    }
+  },
+  {
+    "id": "itunes-1589457835",
+    "name": "Cześć, jak się masz?",
+    "uri": "spotify:track:1589457835",
+    "duration_ms": 201008,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d2/49/43/d24943c5-5fcb-14df-7668-ef159b49fea1/mzaf_3051728938124627689.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-882191248",
+        "name": "Sobel & sanah"
+      }
+    ],
+    "album": {
+      "name": "Cześć, jak się masz? - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/56/08/415608cb-3a97-3ed5-a1ec-d89cc2f96b32/21UM1IM26540.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Cze%C5%9B%C4%87%2C%20jak%20si%C4%99%20masz%3F%20Sobel%20%26%20sanah"
+    }
+  },
+  {
+    "id": "itunes-1800766963",
+    "name": "Z TYŁU GŁOWY",
+    "uri": "spotify:track:1800766963",
+    "duration_ms": 170625,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/50/09/545009a0-5ae5-4393-19f9-c75028177bf0/mzaf_1774049940595480225.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-882191248",
+        "name": "Sobel & francis"
+      }
+    ],
+    "album": {
+      "name": "Z TYŁU GŁOWY - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/16/2b/d9162b33-eafc-69d5-8e9f-cda5e7044538/25UMGIM43432.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Z%20TY%C5%81U%20G%C5%81OWY%20Sobel%20%26%20francis"
+    }
+  },
+  {
+    "id": "itunes-1525934905",
+    "name": "Testarossa",
+    "uri": "spotify:track:1525934905",
+    "duration_ms": 233000,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/c2/aa/77c2aaa2-0c22-6496-e821-4254023358fb/mzaf_5085499243890025059.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-287670610",
+        "name": "Wiatr, Sobel & be vis"
+      }
+    ],
+    "album": {
+      "name": "Testarossa - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/36/2e/4d362e01-ec9e-8b52-8e63-b30f9ca27ee0/886448675105.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Testarossa%20Wiatr%2C%20Sobel%20%26%20be%20vis"
+    }
+  },
+  {
+    "id": "itunes-1848963508",
+    "name": "Obejmuję noce",
+    "uri": "spotify:track:1848963508",
+    "duration_ms": 176693,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/8c/06/088c06dd-53d1-fcb3-3960-2d084a9e8841/mzaf_13616033250097654300.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-272266157",
+        "name": "Jonatan, Pezet & Livka"
+      }
+    ],
+    "album": {
+      "name": "Obejmuję noce - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/b0/14/47b01459-affb-71bb-cd24-f899d75e1014/25UM1IM72167.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Obejmuj%C4%99%20noce%20Jonatan%2C%20Pezet%20%26%20Livka"
+    }
+  },
+  {
+    "id": "itunes-1834649382",
+    "name": "Magenta",
+    "uri": "spotify:track:1834649382",
+    "duration_ms": 200333,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/79/3a/0e793a21-a4d0-cbce-bb36-851a0bc1af00/mzaf_8812417354077190626.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-56144105",
+        "name": "Pezet & Auer"
+      }
+    ],
+    "album": {
+      "name": "Muzyka współczesna",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/35/b6/5a35b6d6-ec99-9b2e-590a-2195d58e5f7a/25UM1IM23566.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Magenta%20Pezet%20%26%20Auer"
+    }
+  },
+  {
+    "id": "itunes-1836608075",
+    "name": "Nisko jest niebo (prod. Auer) [feat. Kayah]",
+    "uri": "spotify:track:1836608075",
+    "duration_ms": 204788,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/78/24/c678244c-9c8b-e1b9-10c3-f8c066216f2c/mzaf_16279837047878439131.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-56144105",
+        "name": "Pezet & Auer"
+      }
+    ],
+    "album": {
+      "name": "Nisko jest niebo (prod. Auer) [feat. Kayah] - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/7a/4f/027a4f02-2c66-889c-6f0e-6fb9972b93da/25UM1IM31534.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Nisko%20jest%20niebo%20(prod.%20Auer)%20%5Bfeat.%20Kayah%5D%20Pezet%20%26%20Auer"
+    }
+  },
+  {
+    "id": "itunes-693192888",
+    "name": "Co Mam Powiedzieć",
+    "uri": "spotify:track:693192888",
+    "duration_ms": 201827,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5e/67/ad/5e67adfa-36b0-ded6-1ff8-61deaabc3295/mzaf_11383416707188234330.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-56144105",
+        "name": "Pezet"
+      }
+    ],
+    "album": {
+      "name": "Radio Pezet Produkcja Sidney Polak",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/77/11/e2771102-5ad5-4d3b-3631-61dec890ff6b/5099967862450.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Co%20Mam%20Powiedzie%C4%87%20Pezet"
+    }
+  },
+  {
+    "id": "itunes-1827031319",
+    "name": "Lepiej gonić niż złapać",
+    "uri": "spotify:track:1827031319",
+    "duration_ms": 180480,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/60/e8/e760e826-9825-d756-99ba-7a3ca0633448/mzaf_14741494386574530249.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-56144105",
+        "name": "Pezet & Jonatan"
+      }
+    ],
+    "album": {
+      "name": "Lepiej gonić niż złapać - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/72/a8/e472a848-435d-3022-1f39-e8cef1999943/0001092763217.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Lepiej%20goni%C4%87%20ni%C5%BC%20z%C5%82apa%C4%87%20Pezet%20%26%20Jonatan"
+    }
+  },
+  {
+    "id": "itunes-1834444680",
+    "name": "#1",
+    "uri": "spotify:track:1834444680",
+    "duration_ms": 207760,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/01/54/860154ab-d616-96c8-0d0e-b6780caf9b9a/mzaf_6923350143126430195.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-56144105",
+        "name": "Pezet & Szogun"
+      }
+    ],
+    "album": {
+      "name": "Muzyka rozrywkowa",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/69/4b/73694b27-55d4-4562-ea18-8a0457dac2d5/25UM1IM23038.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/%231%20Pezet%20%26%20Szogun"
+    }
+  },
+  {
+    "id": "itunes-1712132632",
+    "name": "Drive",
+    "uri": "spotify:track:1712132632",
+    "duration_ms": 202759,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/f6/ec/6bf6ecd4-b2c3-2cf1-9b81-e925a50dda07/mzaf_13561925492721247424.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-2728607",
+        "name": "Gibbs, Opał, Jonatan & 4money"
+      }
+    ],
+    "album": {
+      "name": "SAFE",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/8d/c7/d48dc739-4987-e0d2-59e2-d3afc698dfae/5902898175158.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Drive%20Gibbs%2C%20Opa%C5%82%2C%20Jonatan%20%26%204money"
+    }
+  },
+  {
+    "id": "itunes-1697048268",
+    "name": "Piękny Świat",
+    "uri": "spotify:track:1697048268",
+    "duration_ms": 233370,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/3d/55/723d55d8-da85-2f8a-3bf5-e39a7df98f89/mzaf_6618803353179701338.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-2728607",
+        "name": "Gibbs & Kiełas"
+      }
+    ],
+    "album": {
+      "name": "Piękny Świat - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/7a/aa/067aaa0e-ef11-c3c1-5f35-bdb9068e0af6/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Pi%C4%99kny%20%C5%9Awiat%20Gibbs%20%26%20Kie%C5%82as"
+    }
+  },
+  {
+    "id": "itunes-1660261367",
+    "name": "ztb",
+    "uri": "spotify:track:1660261367",
+    "duration_ms": 207000,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/a3/f5/e2a3f561-d3d8-e959-873f-5888b1cd4074/mzaf_12408812276582178989.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1111554436",
+        "name": "FAVST & Gibbs"
+      }
+    ],
+    "album": {
+      "name": "ztb - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/45/07/d745077a-0df2-8072-8366-29fdecf5e5c0/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/ztb%20FAVST%20%26%20Gibbs"
+    }
+  },
+  {
+    "id": "itunes-1697474830",
+    "name": "Stan",
+    "uri": "spotify:track:1697474830",
+    "duration_ms": 181045,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/2b/f4/3e2bf4c3-cd27-089e-00be-919366c62a34/mzaf_15327372936144260047.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-2728607",
+        "name": "Gibbs, Jonatan & 4money"
+      }
+    ],
+    "album": {
+      "name": "Stan - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/81/f5/bf81f516-6852-aa4e-3768-db8be0f6219a/5054197755972.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Stan%20Gibbs%2C%20Jonatan%20%26%204money"
+    }
+  },
+  {
+    "id": "itunes-1697004943",
+    "name": "Znikam",
+    "uri": "spotify:track:1697004943",
+    "duration_ms": 271760,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/ae/1b/95ae1b1e-592c-cc45-e0aa-67bfe953eb34/mzaf_383878062838942633.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-2728607",
+        "name": "Gibbs & DOPEhouse"
+      }
+    ],
+    "album": {
+      "name": "DOPEHOUSE MIXTAPE",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/45/65/c64565a8-397e-0921-804c-7619daa51527/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Znikam%20Gibbs%20%26%20DOPEhouse"
+    }
+  },
+  {
+    "id": "itunes-1658175479",
+    "name": "(Po)ciąg dalszy nastąpi",
+    "uri": "spotify:track:1658175479",
+    "duration_ms": 265967,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/d0/1e/f3d01e1c-25b5-be49-316e-998e1983cf0f/mzaf_17722835713134390520.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-2728607",
+        "name": "Gibbs"
+      }
+    ],
+    "album": {
+      "name": "Czarno na białym",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/29/d4/0329d4fd-3c7e-7f04-2eba-8b9f890b3324/000765961035.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/(Po)ci%C4%85g%20dalszy%20nast%C4%85pi%20Gibbs"
+    }
+  },
+  {
+    "id": "itunes-1712132285",
+    "name": "Samotność",
+    "uri": "spotify:track:1712132285",
+    "duration_ms": 189767,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/d7/b4/68d7b4eb-11ac-8071-ec2f-7638adf2b98a/mzaf_7538656640101964157.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-2728607",
+        "name": "Gibbs & Jonatan"
+      }
+    ],
+    "album": {
+      "name": "SAFE",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/8d/c7/d48dc739-4987-e0d2-59e2-d3afc698dfae/5902898175158.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Samotno%C5%9B%C4%87%20Gibbs%20%26%20Jonatan"
+    }
+  },
+  {
+    "id": "itunes-1754952360",
+    "name": "Róż",
+    "uri": "spotify:track:1754952360",
+    "duration_ms": 171694,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/ca/c8/57cac80f-8d78-a413-65a3-a4b26baedc17/mzaf_13559446092227699399.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-272266157",
+        "name": "Jonatan, Bletka & Gibbs"
+      }
+    ],
+    "album": {
+      "name": "Róż - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/11/18/66111877-a4a7-0622-a356-434fc7a952c4/24UMGIM72241.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/R%C3%B3%C5%BC%20Jonatan%2C%20Bletka%20%26%20Gibbs"
+    }
+  },
+  {
+    "id": "itunes-1426481839",
+    "name": "Ostatni Bal",
+    "uri": "spotify:track:1426481839",
+    "duration_ms": 213702,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1d/71/a0/1d71a0fa-63de-8579-738a-05175ccab5b3/mzaf_469504270721936458.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1394122706",
+        "name": "Kukon"
+      }
+    ],
+    "album": {
+      "name": "Piękny Ból",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/65/29/a8/6529a85b-176f-96bf-7636-d17aee34f5e8/0000431898283.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Ostatni%20Bal%20Kukon"
+    }
+  },
+  {
+    "id": "itunes-1533011794",
+    "name": "Dziewczyna z Biblioteki",
+    "uri": "spotify:track:1533011794",
+    "duration_ms": 164500,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/0a/74/480a7419-bdfa-f747-2e6a-e8b7d00c5dff/mzaf_7912358478225691260.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1394122706",
+        "name": "Kukon & Ka-Meal"
+      }
+    ],
+    "album": {
+      "name": "Kraków, Marzec 2020",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/11/54/4b/11544b8e-3b8b-878e-8644-5b20439403a2/886448791027.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Dziewczyna%20z%20Biblioteki%20Kukon%20%26%20Ka-Meal"
+    }
+  },
+  {
+    "id": "itunes-1704146887",
+    "name": "kokaina nie pomaga ci w depresji",
+    "uri": "spotify:track:1704146887",
+    "duration_ms": 173764,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/54/d7/8e54d79e-b172-982b-2f3d-670c5f6fe30f/mzaf_849501955416793358.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1394122706",
+        "name": "Kukon, Julia Mikuła & Ka-Meal"
+      }
+    ],
+    "album": {
+      "name": "DRAMAT.",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/2c/d7/d02cd77b-7675-c297-16b7-fe6d535b657a/23UM1IM00681.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/kokaina%20nie%20pomaga%20ci%20w%20depresji%20Kukon%2C%20Julia%20Miku%C5%82a%20%26%20Ka-Meal"
+    }
+  },
+  {
+    "id": "itunes-1719191090",
+    "name": "Bliźniaczki",
+    "uri": "spotify:track:1719191090",
+    "duration_ms": 188451,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2b/41/f3/2b41f3fa-eddf-2bce-add9-b54dc0401b12/mzaf_13693400993438303283.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1394122706",
+        "name": "Kukon"
+      }
+    ],
+    "album": {
+      "name": "Radio Taxi",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/b3/9a/9fb39ae8-ff7d-c515-e8dd-1c8a870a5c70/23UM1IM61819.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Bli%C5%BAniaczki%20Kukon"
+    }
+  },
+  {
+    "id": "itunes-1394122709",
+    "name": "Kocham Cię",
+    "uri": "spotify:track:1394122709",
+    "duration_ms": 186984,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/8c/88/3e8c883d-88e8-2617-6a67-4589fa3aa156/mzaf_4997192325850956130.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1394122706",
+        "name": "Kukon"
+      }
+    ],
+    "album": {
+      "name": "Kocham Cię - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/17/e1/4b17e188-0568-f451-2274-8a9f380f4966/0000423162033.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Kocham%20Ci%C4%99%20Kukon"
+    }
+  },
+  {
+    "id": "itunes-1426481644",
+    "name": "Porsche",
+    "uri": "spotify:track:1426481644",
+    "duration_ms": 240154,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b5/01/dc/b501dc70-b99d-20cf-f8f8-87a958f1dbb6/mzaf_11547149939229999540.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1394122706",
+        "name": "Kukon"
+      }
+    ],
+    "album": {
+      "name": "Piękny Ból",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/65/29/a8/6529a85b-176f-96bf-7636-d17aee34f5e8/0000431898283.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Porsche%20Kukon"
+    }
+  },
+  {
+    "id": "itunes-1533011792",
+    "name": "Sypialnia",
+    "uri": "spotify:track:1533011792",
+    "duration_ms": 200000,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/2f/da/6b2fdab7-2e86-c5f2-caee-dad73cbc1706/mzaf_17527226490715659358.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1394122706",
+        "name": "Kukon & Ka-Meal"
+      }
+    ],
+    "album": {
+      "name": "Kraków, Marzec 2020",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/11/54/4b/11544b8e-3b8b-878e-8644-5b20439403a2/886448791027.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Sypialnia%20Kukon%20%26%20Ka-Meal"
+    }
+  },
+  {
+    "id": "itunes-1704146890",
+    "name": "miło mi cię poznać",
+    "uri": "spotify:track:1704146890",
+    "duration_ms": 214412,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/c9/3f/2bc93ffa-c483-fd17-ea99-924a7da079ef/mzaf_16762091986915402968.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1394122706",
+        "name": "Kukon, Julia Mikuła & Pawbeats"
+      }
+    ],
+    "album": {
+      "name": "DRAMAT.",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/2c/d7/d02cd77b-7675-c297-16b7-fe6d535b657a/23UM1IM00681.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/mi%C5%82o%20mi%20ci%C4%99%20pozna%C4%87%20Kukon%2C%20Julia%20Miku%C5%82a%20%26%20Pawbeats"
+    }
+  },
+  {
+    "id": "itunes-1660635798",
+    "name": "Ninja (feat. Szpaku)",
+    "uri": "spotify:track:1660635798",
+    "duration_ms": 253091,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/85/7d/94857d06-8f25-342a-763d-f879ab34bf83/mzaf_17375171674223464283.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-977116357",
+        "name": "Guzior & D3W"
+      }
+    ],
+    "album": {
+      "name": "EVIL_THINGS",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/77/97/3d779793-e7fd-252a-3102-12a3743342c2/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Ninja%20(feat.%20Szpaku)%20Guzior%20%26%20D3W"
+    }
+  },
+  {
+    "id": "itunes-1712132630",
+    "name": "Czerwone łzy",
+    "uri": "spotify:track:1712132630",
+    "duration_ms": 204706,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/bb/f1/c5bbf140-3d15-8cca-d850-9563b5282eed/mzaf_13142506949558518139.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-2728607",
+        "name": "Gibbs, Szpaku, Jonatan & 4money"
+      }
+    ],
+    "album": {
+      "name": "SAFE",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/8d/c7/d48dc739-4987-e0d2-59e2-d3afc698dfae/5902898175158.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Czerwone%20%C5%82zy%20Gibbs%2C%20Szpaku%2C%20Jonatan%20%26%204money"
+    }
+  },
+  {
+    "id": "itunes-1765562966",
+    "name": "Wybory",
+    "uri": "spotify:track:1765562966",
+    "duration_ms": 270986,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/19/df/2819df88-4901-b0b1-9034-6a9684868764/mzaf_2845082485122665872.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1201214084",
+        "name": "Jan-Rapowanie, Nocny, Szpaku & Guzior"
+      }
+    ],
+    "album": {
+      "name": "Wybory - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/a6/97/e7a69704-43a6-c441-93ca-7262d94aba15/196872435061.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Wybory%20Jan-Rapowanie%2C%20Nocny%2C%20Szpaku%20%26%20Guzior"
+    }
+  },
+  {
+    "id": "itunes-1749089588",
+    "name": "Dobry chłopak",
+    "uri": "spotify:track:1749089588",
+    "duration_ms": 212378,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/e2/bf/82e2bf89-c196-be1e-6e91-3fde7274d28f/mzaf_15264518504013552545.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-280049303",
+        "name": "Sarius, Gibbs & Szpaku"
+      }
+    ],
+    "album": {
+      "name": "Wszystko co złe",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/24/3d/11243d25-bcd1-8dc0-b742-7c8344126e5b/000432295920.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Dobry%20ch%C5%82opak%20Sarius%2C%20Gibbs%20%26%20Szpaku"
+    }
+  },
+  {
+    "id": "itunes-6792766026",
+    "name": "Sicario",
+    "uri": "spotify:track:6792766026",
+    "duration_ms": 211836,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/19/01/8d190157-b07a-14e9-63d2-70f0f24279d7/mzaf_5498576654192155205.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1486202087",
+        "name": "Slon & Szpaku"
+      }
+    ],
+    "album": {
+      "name": "Mutylator",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/7c/78/c67c78a5-c813-04de-4163-8c998f07b082/0000438355123.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Sicario%20Slon%20%26%20Szpaku"
+    }
+  },
+  {
+    "id": "itunes-1650385273",
+    "name": "Nasze Domy (feat. Szpaku)",
+    "uri": "spotify:track:1650385273",
+    "duration_ms": 164182,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/af/75/7d/af757d38-c2ec-d504-5c78-00d38a27377a/mzaf_4410236212782474005.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1482422674",
+        "name": "KALUSH & Kalush Orchestra"
+      }
+    ],
+    "album": {
+      "name": "Nasze Domy (feat. Szpaku) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ae/30/ab/ae30ab37-4bf4-477a-44c7-3cde18a64b64/196589595140.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Nasze%20Domy%20(feat.%20Szpaku)%20KALUSH%20%26%20Kalush%20Orchestra"
+    }
+  },
+  {
+    "id": "itunes-1660262253",
+    "name": "Tajfun92",
+    "uri": "spotify:track:1660262253",
+    "duration_ms": 189197,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/58/6b/5a/586b5a10-8d72-9e78-66c0-1be0c9425725/mzaf_5762714593724018234.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-977116357",
+        "name": "Guzior & Skrywa"
+      }
+    ],
+    "album": {
+      "name": "Evil Twin",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/b9/26/48b92690-9b3f-eef6-72a8-c0edf8288dc1/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Tajfun92%20Guzior%20%26%20Skrywa"
+    }
+  },
+  {
+    "id": "itunes-1660636149",
+    "name": "MikMik",
+    "uri": "spotify:track:1660636149",
+    "duration_ms": 232000,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/e5/b9/1ee5b943-3456-ce45-478e-5eb81e305c4a/mzaf_7602489053835070582.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-977116357",
+        "name": "Guzior"
+      }
+    ],
+    "album": {
+      "name": "EVIL_THINGS",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/77/97/3d779793-e7fd-252a-3102-12a3743342c2/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/MikMik%20Guzior"
+    }
+  },
+  {
+    "id": "itunes-1660262250",
+    "name": "SSJ2 (Same Kłopoty)",
+    "uri": "spotify:track:1660262250",
+    "duration_ms": 283279,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/02/f4/b902f4b7-401e-3b1d-ccbf-cc222713c065/mzaf_14934945745012399313.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-977116357",
+        "name": "Guzior"
+      }
+    ],
+    "album": {
+      "name": "Evil Twin",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/b9/26/48b92690-9b3f-eef6-72a8-c0edf8288dc1/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/SSJ2%20(Same%20K%C5%82opoty)%20Guzior"
+    }
+  },
+  {
+    "id": "itunes-1644606144",
+    "name": "Chabo",
+    "uri": "spotify:track:1644606144",
+    "duration_ms": 178737,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8a/cb/9b/8acb9b34-2e43-0748-79ff-a371a7d10b10/mzaf_6018144987309012694.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-977116357",
+        "name": "Guzior, Vito Bambino & FAVST"
+      }
+    ],
+    "album": {
+      "name": "Chabo - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/67/02/6d/67026def-3ec6-b25e-9a20-46cd96976601/22UM1IM03434.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Chabo%20Guzior%2C%20Vito%20Bambino%20%26%20FAVST"
+    }
+  },
+  {
+    "id": "itunes-1660262244",
+    "name": "Karnawał",
+    "uri": "spotify:track:1660262244",
+    "duration_ms": 180923,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/62/27/8e622730-fff9-b9b4-d1b4-f3aabf799d38/mzaf_4693515527084220778.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-977116357",
+        "name": "Guzior & Skrywa"
+      }
+    ],
+    "album": {
+      "name": "Evil Twin",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/b9/26/48b92690-9b3f-eef6-72a8-c0edf8288dc1/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Karnawa%C5%82%20Guzior%20%26%20Skrywa"
+    }
+  },
+  {
+    "id": "itunes-1765565944",
+    "name": "Gubię kroki",
+    "uri": "spotify:track:1765565944",
+    "duration_ms": 137322,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/a0/b8/56a0b8e4-cd51-3675-3489-4b77f98e125c/mzaf_1163578573819205662.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1205558172",
+        "name": "White 2115"
+      }
+    ],
+    "album": {
+      "name": "Gubię kroki - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/62/7e/2b627ec7-15ae-31a0-d853-9f8891ae412a/0000534388322.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Gubi%C4%99%20kroki%20White%202115"
+    }
+  },
+  {
+    "id": "itunes-1765982938",
+    "name": "Wschód (lubię zapierdalać) [feat. White 2115]",
+    "uri": "spotify:track:1765982938",
+    "duration_ms": 248987,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/be/aa/aebeaa03-5b90-c494-20e8-3f1de1c2a229/mzaf_15802827411632827690.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1660063697",
+        "name": "Bedoes 2115, Lanek & Kosa"
+      }
+    ],
+    "album": {
+      "name": "Opowieści z Doliny Smoków",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c0/22/f9c02281-aa93-2a7d-f3fd-4a05d7ef0e65/0000521432908.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Wsch%C3%B3d%20(lubi%C4%99%20zapierdala%C4%87)%20%5Bfeat.%20White%202115%5D%20Bedoes%202115%2C%20Lanek%20%26%20Kosa"
+    }
+  },
+  {
+    "id": "itunes-1813888979",
+    "name": "Lovestory",
+    "uri": "spotify:track:1813888979",
+    "duration_ms": 162195,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/b4/0d/63b40d5f-6a1a-6570-3d7a-db974962d100/mzaf_8023171119316572626.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1205558172",
+        "name": "White 2115"
+      }
+    ],
+    "album": {
+      "name": "Lovestory - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/ab/b8/9fabb8e4-9033-c877-cc53-23fdee5fb8f8/196873165028.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Lovestory%20White%202115"
+    }
+  },
+  {
+    "id": "itunes-1477629066",
+    "name": "Small Town Boy (feat. Deemz)",
+    "uri": "spotify:track:1477629066",
+    "duration_ms": 213658,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0a/ac/6b/0aac6b07-f6e3-d5f0-0c42-efacd4b0950a/mzaf_5940488925838563119.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-310875037",
+        "name": "Żabson, Beteo & White 2115"
+      }
+    ],
+    "album": {
+      "name": "Small Town Boy (feat. Deemz) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e3/34/51/e33451c9-b029-cf5c-a5cb-17cd71360829/0000511208223.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Small%20Town%20Boy%20(feat.%20Deemz)%20%C5%BBabson%2C%20Beteo%20%26%20White%202115"
+    }
+  },
+  {
+    "id": "itunes-1765983278",
+    "name": "Obcy",
+    "uri": "spotify:track:1765983278",
+    "duration_ms": 242027,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/ec/ff/afecffff-b308-2180-abb8-0dbe5b3a45c7/mzaf_8762186872059048536.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1135104929",
+        "name": "SB Maffija, White 2115, Bryan, Palar, Koldi, slowez, Kinny Zimmer, Beteo & FLORY"
+      }
+    ],
+    "album": {
+      "name": "Hotel Maffija 3",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/58/6e/be586e9e-0538-a6dc-fbc9-5231cf76d109/0000899412830.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Obcy%20SB%20Maffija%2C%20White%202115%2C%20Bryan%2C%20Palar%2C%20Koldi%2C%20slowez%2C%20Kinny%20Zimmer%2C%20Beteo%20%26%20FLORY"
+    }
+  },
+  {
+    "id": "itunes-1765982982",
+    "name": "Hotel Maffija 3 (feat. Kacperczyk)",
+    "uri": "spotify:track:1765982982",
+    "duration_ms": 297253,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/89/d8/7689d85d-1e62-6608-926b-6b93a1ace3f6/mzaf_13065638781296386616.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1135104929",
+        "name": "SB Maffija, Kinny Zimmer, White 2115, Solar, TOMB, Janusz Walczuk, Lanek, Jacuś, po prostu Kajtek, Bryan, Fukaj, Szaran, Beteo, Białas, SHDØW & Tony2000"
+      }
+    ],
+    "album": {
+      "name": "Hotel Maffija 3",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/58/6e/be586e9e-0538-a6dc-fbc9-5231cf76d109/0000899412830.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Hotel%20Maffija%203%20(feat.%20Kacperczyk)%20SB%20Maffija%2C%20Kinny%20Zimmer%2C%20White%202115%2C%20Solar%2C%20TOMB%2C%20Janusz%20Walczuk%2C%20Lanek%2C%20Jacu%C5%9B%2C%20po%20prostu%20Kajtek%2C%20Bryan%2C%20Fukaj%2C%20Szaran%2C%20Beteo%2C%20Bia%C5%82as%2C%20SHD%C3%98W%20%26%20Tony2000"
+    }
+  },
+  {
+    "id": "itunes-1648777392",
+    "name": "NA KRAŃCU ŚWIATA (feat. Bedoes 2115)",
+    "uri": "spotify:track:1648777392",
+    "duration_ms": 214138,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b0/a3/4f/b0a34f1c-d01d-6fa0-3bd2-3f7945304aff/mzaf_7457833240119267349.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1205558172",
+        "name": "White 2115 & 2115"
+      }
+    ],
+    "album": {
+      "name": "NA KRAŃCU ŚWIATA (feat. Bedoes 2115) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/2f/7d/e32f7ddf-496f-40e1-c2e3-5469ce7364f3/22UM1IM16316.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/NA%20KRA%C5%83CU%20%C5%9AWIATA%20(feat.%20Bedoes%202115)%20White%202115%20%26%202115"
+    }
+  },
+  {
+    "id": "itunes-6814768754",
+    "name": "Mami",
+    "uri": "spotify:track:6814768754",
+    "duration_ms": 172359,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/83/58/cf8358db-7a8e-2a84-c83c-8516ba9d7500/mzaf_16962674937371327388.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1536782613",
+        "name": "730 Huncho, Malik Montana, Wiktor & CrackHouse"
+      }
+    ],
+    "album": {
+      "name": "Mami - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/77/2f/d4772fd5-c931-a3d0-8f64-f502cc752719/1200220181148.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Mami%20730%20Huncho%2C%20Malik%20Montana%2C%20Wiktor%20%26%20CrackHouse"
+    }
+  },
+  {
+    "id": "itunes-1536804008",
+    "name": "Do rana",
+    "uri": "spotify:track:1536804008",
+    "duration_ms": 202056,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ce/ec/e1/ceece188-e804-c50b-17a0-af1cec5c84f4/mzaf_5775735154198571196.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1127355783",
+        "name": "Malik Montana"
+      }
+    ],
+    "album": {
+      "name": "Haram Masari",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9e/3f/97/9e3f97ec-75b2-cd75-c9b4-6758e83f2ac0/886448715511.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Do%20rana%20Malik%20Montana"
+    }
+  },
+  {
+    "id": "itunes-1498429227",
+    "name": "Niedostępny (feat. DMN)",
+    "uri": "spotify:track:1498429227",
+    "duration_ms": 152812,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/4b/81/a54b81ba-4b03-fa07-80d5-72474fa4dd7f/mzaf_13862274696394875847.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1127355783",
+        "name": "Malik Montana & Olek"
+      }
+    ],
+    "album": {
+      "name": "Niedostępny (feat. DMN) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4d/53/ec/4d53ec2b-f77f-2b49-3441-67e9f3132c61/886448293880.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Niedost%C4%99pny%20(feat.%20DMN)%20Malik%20Montana%20%26%20Olek"
+    }
+  },
+  {
+    "id": "itunes-1536799612",
+    "name": "One Night Stand",
+    "uri": "spotify:track:1536799612",
+    "duration_ms": 178520,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/2c/5d/b12c5d31-dbbc-dbe8-5dba-62a7deacc749/mzaf_540550147790163345.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1127355783",
+        "name": "Malik Montana & Dio Mudara"
+      }
+    ],
+    "album": {
+      "name": "022 EP",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a4/de/6d/a4de6d6d-7cd6-7d4e-b157-b727cfcbbc7a/886448715528.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/One%20Night%20Stand%20Malik%20Montana%20%26%20Dio%20Mudara"
+    }
+  },
+  {
+    "id": "itunes-1880379327",
+    "name": "Fala - Piri Piri (feat. Malik Montana)",
+    "uri": "spotify:track:1880379327",
+    "duration_ms": 231864,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/25/39/0e253970-4fd3-ebe4-95cb-fdee25d4ca7f/mzaf_8070421792705094056.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1011271997",
+        "name": "Wac Toja & Matheo"
+      }
+    ],
+    "album": {
+      "name": "Ostry Sos",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/fa/78/c3fa7834-5df1-0154-88eb-342ddaac5b5e/26UMGIM23791.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Fala%20-%20Piri%20Piri%20(feat.%20Malik%20Montana)%20Wac%20Toja%20%26%20Matheo"
+    }
+  },
+  {
+    "id": "itunes-1694538205",
+    "name": "Czempion (feat. Malik Montana)",
+    "uri": "spotify:track:1694538205",
+    "duration_ms": 201179,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4b/83/02/4b8302ee-4584-e2eb-ac91-7c42785d419d/mzaf_3475250561298232602.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-377636582",
+        "name": "Kizo"
+      }
+    ],
+    "album": {
+      "name": "Czempion",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/37/90/9f/37909f1b-8caf-ef82-1558-de74d6f17e93/23UMGIM74071.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Czempion%20(feat.%20Malik%20Montana)%20Kizo"
+    }
+  },
+  {
+    "id": "itunes-1765982944",
+    "name": "Fresh Prince (trill 4ever)",
+    "uri": "spotify:track:1765982944",
+    "duration_ms": 170720,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/a5/ec/afa5ec33-84e6-7c20-cbdf-8c5a41a72aea/mzaf_1511916367178474047.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1660063697",
+        "name": "Bedoes 2115, Lanek & Malik Montana"
+      }
+    ],
+    "album": {
+      "name": "Opowieści z Doliny Smoków",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c0/22/f9c02281-aa93-2a7d-f3fd-4a05d7ef0e65/0000521432908.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Fresh%20Prince%20(trill%204ever)%20Bedoes%202115%2C%20Lanek%20%26%20Malik%20Montana"
+    }
+  },
+  {
+    "id": "itunes-1462094337",
+    "name": "Lifestyle (feat. Malik Montana, Borixon & Białas)",
+    "uri": "spotify:track:1462094337",
+    "duration_ms": 185307,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/22/0b/a1220b27-c0b1-795e-5aca-6f9c110aa9b1/mzaf_1049265201821328327.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1069215127",
+        "name": "Kubi Producent"
+      }
+    ],
+    "album": {
+      "name": "+18",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/18/55/7e/18557e0c-2df9-b20e-f69d-96620f335bda/886447608593.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Lifestyle%20(feat.%20Malik%20Montana%2C%20Borixon%20%26%20Bia%C5%82as)%20Kubi%20Producent"
+    }
+  },
+  {
+    "id": "itunes-1677636923",
+    "name": "Taxi (feat. BeMelo, Eddie Block & Adash)",
+    "uri": "spotify:track:1677636923",
+    "duration_ms": 180937,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/44/ba/db44ba59-d486-49e6-6f9b-5f0c593fdc22/mzaf_743246777119769361.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-377636582",
+        "name": "Kizo & Bletka"
+      }
+    ],
+    "album": {
+      "name": "Taxi (feat. BeMelo, Eddie Block & Adash) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/77/e9/cb77e983-9df0-d0c7-9e1b-99eaa951820e/23UMGIM29431.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Taxi%20(feat.%20BeMelo%2C%20Eddie%20Block%20%26%20Adash)%20Kizo%20%26%20Bletka"
+    }
+  },
+  {
+    "id": "itunes-1694508132",
+    "name": "Miasto 24H",
+    "uri": "spotify:track:1694508132",
+    "duration_ms": 180060,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/81/d1/d581d1c4-ebfb-71e4-c8c1-213e9c5ca66e/mzaf_4413209902117729118.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-377636582",
+        "name": "Kizo"
+      }
+    ],
+    "album": {
+      "name": "Miasto 24H - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/58/4f/f5/584ff5fc-0256-8aa2-bdf2-b8d20c97d4d0/23UMGIM74584.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Miasto%2024H%20Kizo"
+    }
+  },
+  {
+    "id": "itunes-1730451433",
+    "name": "HERO",
+    "uri": "spotify:track:1730451433",
+    "duration_ms": 164895,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9c/8f/3d/9c8f3da7-f09b-9a3c-1441-c9e98a64505b/mzaf_13821640001200083254.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-377636582",
+        "name": "Kizo & Bletka"
+      }
+    ],
+    "album": {
+      "name": "HERO - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/ba/26/a7ba26ab-1282-24cf-6086-997a6676ebee/24UMGIM12300.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/HERO%20Kizo%20%26%20Bletka"
+    }
+  },
+  {
+    "id": "itunes-1750268244",
+    "name": "100 BPM",
+    "uri": "spotify:track:1750268244",
+    "duration_ms": 146182,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/15/59/b0155905-0e35-a6ad-2526-886361b59880/mzaf_839861575881955395.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-377636582",
+        "name": "Kizo, Bletka & BeMelo"
+      }
+    ],
+    "album": {
+      "name": "100 BPM - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/ee/6e/e1ee6e6d-3415-064f-1680-7756e12bb3d0/24UMGIM61955.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/100%20BPM%20Kizo%2C%20Bletka%20%26%20BeMelo"
+    }
+  },
+  {
+    "id": "itunes-6822877278",
+    "name": "jetlag",
+    "uri": "spotify:track:6822877278",
+    "duration_ms": 178760,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/23/0d/ee230dab-b7b2-7329-5c62-ce09ec3b091b/mzaf_6267737312080153742.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-2608930",
+        "name": "Margaret & Kizo"
+      }
+    ],
+    "album": {
+      "name": "TRIPOLAR",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/06/b3/4c06b301-30d1-7df2-fea8-fd5d69ce99c8/196874706701.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/jetlag%20Margaret%20%26%20Kizo"
+    }
+  },
+  {
+    "id": "itunes-1694704374",
+    "name": "Życie Jest Piękne (feat. Tymek)",
+    "uri": "spotify:track:1694704374",
+    "duration_ms": 178210,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/37/0c/0c370c07-ad5c-e990-e075-dc76a076b1bd/mzaf_10814376973691741902.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-377636582",
+        "name": "Kizo & PSR"
+      }
+    ],
+    "album": {
+      "name": "Pegaz",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/2e/4b/5d2e4b19-74e2-c3aa-98b1-2b27f07c2164/23UMGIM74122.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/%C5%BBycie%20Jest%20Pi%C4%99kne%20(feat.%20Tymek)%20Kizo%20%26%20PSR"
+    }
+  },
+  {
+    "id": "itunes-1660582622",
+    "name": "MOLO",
+    "uri": "spotify:track:1660582622",
+    "duration_ms": 187942,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/59/e7/1459e742-baec-4f97-b283-707b881d51ae/mzaf_6571679677849713635.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1111554436",
+        "name": "FAVST, Dalia, Kizo & Mr. Polska"
+      }
+    ],
+    "album": {
+      "name": "MOLO - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2a/f2/da/2af2da9c-265e-ea11-c41e-08a9ede22bfa/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/MOLO%20FAVST%2C%20Dalia%2C%20Kizo%20%26%20Mr.%20Polska"
+    }
+  },
+  {
+    "id": "itunes-6831202896",
+    "name": "Jak Żyjesz (feat. Waber)",
+    "uri": "spotify:track:6831202896",
+    "duration_ms": 246640,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/20/f4/0b20f433-1a98-8352-4d40-0f25e3ac4cb7/mzaf_1613092852365293001.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-574227211",
+        "name": "Aifam, Mrokas & Paluch"
+      }
+    ],
+    "album": {
+      "name": "Nasza Rewolucja",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/dd/f7/c5ddf7eb-eb5c-a490-8da3-206940c3c536/0001166337580.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Jak%20%C5%BByjesz%20(feat.%20Waber)%20Aifam%2C%20Mrokas%20%26%20Paluch"
+    }
+  },
+  {
+    "id": "itunes-1757631998",
+    "name": "Mam Cię",
+    "uri": "spotify:track:1757631998",
+    "duration_ms": 141500,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/0e/bd/280ebd73-d343-cb96-4037-9afde498b258/mzaf_2125681106471357808.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-486848633",
+        "name": "Paluch, Miroff & Poly"
+      }
+    ],
+    "album": {
+      "name": "Mam Cię - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/86/3b/5b863bd3-b317-322c-7247-291726a9863d/24UMGIM77828.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Mam%20Ci%C4%99%20Paluch%2C%20Miroff%20%26%20Poly"
+    }
+  },
+  {
+    "id": "itunes-1481860997",
+    "name": "Restart (feat. Paluch, Sarius, Gibbs)",
+    "uri": "spotify:track:1481860997",
+    "duration_ms": 275294,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b2/b0/1d/b2b01d61-7495-7762-e400-11485bf49482/mzaf_8337964540258481102.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-552182543",
+        "name": "Shellerini"
+      }
+    ],
+    "album": {
+      "name": "Restart (feat. Paluch, Sarius, Gibbs) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/af/fb/50/affb506a-a9a5-d1ec-2079-df379cbab074/0000515296783.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Restart%20(feat.%20Paluch%2C%20Sarius%2C%20Gibbs)%20Shellerini"
+    }
+  },
+  {
+    "id": "itunes-1521628525",
+    "name": "Drugi Brzeg (feat. Worek & Moody Scrag)",
+    "uri": "spotify:track:1521628525",
+    "duration_ms": 206582,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/31/1f/f8/311ff802-82bc-f2a0-00cd-172ea48431b6/mzaf_14688778137800413600.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-486848633",
+        "name": "Paluch"
+      }
+    ],
+    "album": {
+      "name": "Drugi Brzeg (feat. Worek & Moody Scrag) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/79/cf/df/79cfdfd5-1272-04f4-fe2f-54ff24fe0e03/5903600166518.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Drugi%20Brzeg%20(feat.%20Worek%20%26%20Moody%20Scrag)%20Paluch"
+    }
+  },
+  {
+    "id": "itunes-1633287926",
+    "name": "Pablo",
+    "uri": "spotify:track:1633287926",
+    "duration_ms": 202418,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/b2/b8/e9b2b854-917a-42ed-1cbd-c250d5a9709c/mzaf_15989185956596466060.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-685052797",
+        "name": "Quebonafide & Paluch"
+      }
+    ],
+    "album": {
+      "name": "Dla fanów eklektyki",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/27/b1/f4/27b1f4b9-da37-c104-6cff-b72484251b9b/0000387529255.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Pablo%20Quebonafide%20%26%20Paluch"
+    }
+  },
+  {
+    "id": "itunes-1482645565",
+    "name": "Restart (feat. Gibbs)",
+    "uri": "spotify:track:1482645565",
+    "duration_ms": 275294,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/10/1e/03101e75-f6ae-054b-f90a-b8407af3a471/mzaf_1460081085897201784.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-552182543",
+        "name": "Shellerini, Paluch & Sarius"
+      }
+    ],
+    "album": {
+      "name": "Alma Mater",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/24/9c/e8249cd7-8cbf-7381-d272-b284d4734988/0000516288947.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Restart%20(feat.%20Gibbs)%20Shellerini%2C%20Paluch%20%26%20Sarius"
+    }
+  },
+  {
+    "id": "itunes-1672053013",
+    "name": "Menago (feat. Otsochodzi)",
+    "uri": "spotify:track:1672053013",
+    "duration_ms": 206308,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/e6/51/9ae651fb-00dd-7255-f6b4-1315526d4f62/mzaf_6802060794026885491.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1664969093",
+        "name": "PlanBe"
+      }
+    ],
+    "album": {
+      "name": "Menago (feat. Otsochodzi) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/11/cf/b811cf74-1261-0f50-203a-feceb5f683c5/cover.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Menago%20(feat.%20Otsochodzi)%20PlanBe"
+    }
+  },
+  {
+    "id": "itunes-1567493975",
+    "name": "Chcemy być wyżej",
+    "uri": "spotify:track:1567493975",
+    "duration_ms": 186619,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/6a/0c/b86a0cca-7905-2b6a-6e07-8bab35bbb2a7/mzaf_7500701748903973204.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-838312408",
+        "name": "Sokół & Zeppy Zep"
+      }
+    ],
+    "album": {
+      "name": "Chcemy być wyżej - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/9e/a1/c79ea19a-28a9-9077-245b-74cb7a150163/5902898433722.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Chcemy%20by%C4%87%20wy%C5%BCej%20Sok%C3%B3%C5%82%20%26%20Zeppy%20Zep"
+    }
+  },
+  {
+    "id": "itunes-6795176395",
+    "name": "Pogwarzymy",
+    "uri": "spotify:track:6795176395",
+    "duration_ms": 155876,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/5e/4a/ee5e4a26-44e7-b5b3-a869-10cccf132793/mzaf_13570760757335614588.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-838312408",
+        "name": "Sokół, clearmind & ENKLAWA"
+      }
+    ],
+    "album": {
+      "name": "Pogwarzymy - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/81/02/ae81029c-6258-2b7e-721e-4227b1609b16/196874643198.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Pogwarzymy%20Sok%C3%B3%C5%82%2C%20clearmind%20%26%20ENKLAWA"
+    }
+  },
+  {
+    "id": "itunes-1585128206",
+    "name": "Świadomy sen",
+    "uri": "spotify:track:1585128206",
+    "duration_ms": 247733,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/c7/1f/45c71fa8-6421-995b-c7b1-4b2ef009e882/mzaf_17873422367394283063.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-838312408",
+        "name": "Sokół & Dawid Podsiadło"
+      }
+    ],
+    "album": {
+      "name": "Świadomy sen - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2c/ae/9c/2cae9cec-85e4-ff37-ed21-b07acc4c5ddd/0190295469016.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/%C5%9Awiadomy%20sen%20Sok%C3%B3%C5%82%20%26%20Dawid%20Podsiad%C5%82o"
+    }
+  },
+  {
+    "id": "itunes-1633288941",
+    "name": "GAZPROM",
+    "uri": "spotify:track:1633288941",
+    "duration_ms": 194827,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/f1/87/6ff18764-d8d0-e014-8eef-5ee365b3b776/mzaf_16071861471419036125.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-685052797",
+        "name": "Quebonafide, Sokół & Czarny Hi-Fi"
+      }
+    ],
+    "album": {
+      "name": "ROMANTIC PSYCHO",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a8/22/21/a8222198-553e-b187-6bd5-e3e596fe1984/5902898171617.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/GAZPROM%20Quebonafide%2C%20Sok%C3%B3%C5%82%20%26%20Czarny%20Hi-Fi"
+    }
+  },
+  {
+    "id": "itunes-1580572276",
+    "name": "Chcemy być wyżej",
+    "uri": "spotify:track:1580572276",
+    "duration_ms": 188600,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/a9/67/0da9677e-d229-7d6f-1d8b-392d3986a465/mzaf_6653114959072069923.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-838312408",
+        "name": "Sokół"
+      }
+    ],
+    "album": {
+      "name": "Wojtek Sokół",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/c5/94/65c594e2-0887-1919-0bdc-cb76ca85cdb9/190295469764.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Chcemy%20by%C4%87%20wy%C5%BCej%20Sok%C3%B3%C5%82"
+    }
+  },
+  {
+    "id": "itunes-1715649208",
+    "name": "Całkiem Nowa Bajka",
+    "uri": "spotify:track:1715649208",
+    "duration_ms": 193855,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f5/23/a5/f523a55e-aa7c-332b-5f29-05a8c4899d74/mzaf_7010242630223736927.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1526428596",
+        "name": "Kleks, IGO, Kaśka Sochacka, Mrozu, Artur Rojek, Brodka, Ralph Kaminski, Bedoes 2115 & Sokół"
+      }
+    ],
+    "album": {
+      "name": "Całkiem Nowa Bajka - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/9f/9d/119f9df9-920b-9687-376b-8d4c3d962b4f/196871624695.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Ca%C5%82kiem%20Nowa%20Bajka%20Kleks%2C%20IGO%2C%20Ka%C5%9Bka%20Sochacka%2C%20Mrozu%2C%20Artur%20Rojek%2C%20Brodka%2C%20Ralph%20Kaminski%2C%20Bedoes%202115%20%26%20Sok%C3%B3%C5%82"
+    }
+  },
+  {
+    "id": "itunes-1654515997",
+    "name": "Laura",
+    "uri": "spotify:track:1654515997",
+    "duration_ms": 280387,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/28/ef/fc28ef8c-25ec-3028-aec6-d1617c19b695/mzaf_7955925806066323485.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-582254482",
+        "name": "Daria Zawiałow, Sokół & Michał Kush"
+      }
+    ],
+    "album": {
+      "name": "Laura - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e6/f1/c1/e6f1c157-e6dc-e2ca-77e8-3a5c6ffdccb7/196589676153.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Laura%20Daria%20Zawia%C5%82ow%2C%20Sok%C3%B3%C5%82%20%26%20Micha%C5%82%20Kush"
+    }
+  },
+  {
+    "id": "itunes-1780510523",
+    "name": "hellstar",
+    "uri": "spotify:track:1780510523",
+    "duration_ms": 128571,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/73/09/20730999-de4d-fca3-2a50-56b0d529a17b/mzaf_11192464321086147787.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-312706160",
+        "name": "Chivas"
+      }
+    ],
+    "album": {
+      "name": "hellstar - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/2d/e8/b82de8ea-a956-e282-c6e5-3d84150261a0/24UM1IM29596.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/hellstar%20Chivas"
+    }
+  },
+  {
+    "id": "itunes-1750226392",
+    "name": "Prawie straciłem głos",
+    "uri": "spotify:track:1750226392",
+    "duration_ms": 144472,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/fe/35/3cfe35dd-be86-c2f3-4ed7-7bf5b79b42f5/mzaf_2536347284751840392.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-312706160",
+        "name": "Chivas"
+      }
+    ],
+    "album": {
+      "name": "Prawie straciłem głos - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/ee/a2/6eeea2ef-76b6-0f5b-534b-4dd00dcfe0fd/24UMGIM61648.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Prawie%20straci%C5%82em%20g%C5%82os%20Chivas"
+    }
+  },
+  {
+    "id": "itunes-1758738585",
+    "name": "szafka w małym pokoju",
+    "uri": "spotify:track:1758738585",
+    "duration_ms": 147413,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/c6/4e/cec64eec-f828-eb3d-0a2d-5eb90fe7f0a2/mzaf_17951909568069286721.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-312706160",
+        "name": "Chivas"
+      }
+    ],
+    "album": {
+      "name": "lato 2024 - EP",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/28/08/c0280880-d846-dd7e-7404-b5e77eb97aaa/24UMGIM79711.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/szafka%20w%20ma%C5%82ym%20pokoju%20Chivas"
+    }
+  },
+  {
+    "id": "itunes-1486796427",
+    "name": "Odkąd Nauczyłem Się (Przeklinać)",
+    "uri": "spotify:track:1486796427",
+    "duration_ms": 149382,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/63/04/8263042c-31f8-66bc-854b-943a1fa5f28b/mzaf_4854696690145161828.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-312706160",
+        "name": "Chivas"
+      }
+    ],
+    "album": {
+      "name": "Odkąd Nauczyłem Się (Przeklinać) - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ee/d1/50/eed1508c-b286-26cf-e727-7264a4e76137/5903205101945.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Odk%C4%85d%20Nauczy%C5%82em%20Si%C4%99%20(Przeklina%C4%87)%20Chivas"
+    }
+  },
+  {
+    "id": "itunes-1758738588",
+    "name": "to nie koniec z wami",
+    "uri": "spotify:track:1758738588",
+    "duration_ms": 134458,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/f9/b1/fef9b1b1-5749-acfb-a3b6-779533d3c209/mzaf_13611240881825253157.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-312706160",
+        "name": "Chivas"
+      }
+    ],
+    "album": {
+      "name": "lato 2024 - EP",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/28/08/c0280880-d846-dd7e-7404-b5e77eb97aaa/24UMGIM79711.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/to%20nie%20koniec%20z%20wami%20Chivas"
+    }
+  },
+  {
+    "id": "itunes-1755733905",
+    "name": "5 milionów influencerek",
+    "uri": "spotify:track:1755733905",
+    "duration_ms": 169600,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/eb/2f/feeb2f77-79f3-a1bf-13c0-7782451efaa0/mzaf_6758470798837689936.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-312706160",
+        "name": "Chivas"
+      }
+    ],
+    "album": {
+      "name": "5 milionów influencerek - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/42/47/48424745-6cb9-adbb-1a36-8a30d1c8ac99/24UMGIM73789.rgb.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/5%20milion%C3%B3w%20influencerek%20Chivas"
+    }
+  },
+  {
+    "id": "itunes-1481966058",
+    "name": "Trash",
+    "uri": "spotify:track:1481966058",
+    "duration_ms": 136875,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/96/e2/8096e2be-0a01-e66e-ffee-8dda7a8ae092/mzaf_15015336677767511836.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-312706160",
+        "name": "Chivas"
+      }
+    ],
+    "album": {
+      "name": "Trash - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e6/0e/e7/e60ee7ea-446b-dfaa-db35-2f940efd8846/5903205136411.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Trash%20Chivas"
+    }
+  },
+  {
+    "id": "itunes-1770533385",
+    "name": "PO CO?",
+    "uri": "spotify:track:1770533385",
+    "duration_ms": 183750,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/f4/f2/75f4f248-8cd5-a9f4-e102-5aa83aa832cd/mzaf_1413425001166698892.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1454763978",
+        "name": "Kinny Zimmer & Kaptur"
+      }
+    ],
+    "album": {
+      "name": "PO CO? - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/c3/19/47c3197c-385a-eb46-220b-5a2a8fa89034/196872504286.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/PO%20CO%3F%20Kinny%20Zimmer%20%26%20Kaptur"
+    }
+  },
+  {
+    "id": "itunes-1765741859",
+    "name": "Rozmazana kreska",
+    "uri": "spotify:track:1765741859",
+    "duration_ms": 190881,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/30/10/7e301032-57f1-6f2e-9cd3-5948d3cc6454/mzaf_15365184645469910896.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1454763978",
+        "name": "Kinny Zimmer"
+      }
+    ],
+    "album": {
+      "name": "Rozmazana kreska - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/5a/fc/be5afc04-b767-011a-0ed5-99718e8d0c10/0000777891191.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Rozmazana%20kreska%20Kinny%20Zimmer"
+    }
+  },
+  {
+    "id": "itunes-1891346472",
+    "name": "DAREK",
+    "uri": "spotify:track:1891346472",
+    "duration_ms": 139200,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/b5/b2/5cb5b211-9d0a-ec2b-6b8e-8ae87ce2be83/mzaf_10059127961674527693.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1454763978",
+        "name": "Kinny Zimmer"
+      }
+    ],
+    "album": {
+      "name": "DAREK - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/80/dc/4a80dcdb-6fc8-21f0-cbcb-363cc2c246af/196874288856.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/DAREK%20Kinny%20Zimmer"
+    }
+  },
+  {
+    "id": "itunes-1765739388",
+    "name": "Bungee",
+    "uri": "spotify:track:1765739388",
+    "duration_ms": 199536,
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/59/47/6f594765-0857-5b4c-f231-bb0d3df0aafc/mzaf_18156817103434812087.plus.aac.p.m4a",
+    "artists": [
+      {
+        "id": "art-1135104929",
+        "name": "SB Maffija, Kinny Zimmer, Lanek, Białas, Bandura, Janusz Walczuk, Solar, TOMB & Dżinold"
+      }
+    ],
+    "album": {
+      "name": "Bungee - Single",
+      "images": [
+        {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/fa/2f/d4fa2f1f-f8ab-5b56-b90b-4794759e9c6c/0000890726882.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/search/Bungee%20SB%20Maffija%2C%20Kinny%20Zimmer%2C%20Lanek%2C%20Bia%C5%82as%2C%20Bandura%2C%20Janusz%20Walczuk%2C%20Solar%2C%20TOMB%20%26%20D%C5%BCinold"
+    }
+  }
+]

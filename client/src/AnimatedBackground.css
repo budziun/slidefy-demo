@@ -1,0 +1,12 @@
+/* AnimatedBackground.css */
+@keyframes gradientShift {
+    to {
+        background-position: 100% 100%, 0% 0%, 80% 80%, 100% 50%;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .animated-background {
+        animation: none !important;
+    }
+}
